@@ -1,0 +1,48 @@
+2024/11/28-15:03:03.127 e5b5 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-15:03:03.128 e5b5 Recovering log #71
+2024/11/28-15:03:03.134 e5b5 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000071.log 
+2024/11/28-15:03:03.135 e5b5 Delete type=2 #69
+2024/11/28-15:03:03.135 e5b5 Delete type=2 #72
+2024/11/28-15:03:03.461 e5c7 Level-0 table #76: started
+2024/11/28-15:03:03.468 e5c7 Level-0 table #76: 183965 bytes OK
+2024/11/28-15:03:03.471 e5c7 Delete type=0 #71
+2024/11/28-15:03:03.471 e5a9 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-15:03:05.624 e5b7 Level-0 table #78: started
+2024/11/28-15:03:05.626 e5b7 Level-0 table #78: 1403 bytes OK
+2024/11/28-15:03:05.627 e5b7 Delete type=0 #75
+2024/11/28-15:03:05.628 e5b5 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 30434 : 1
+2024/11/28-15:03:05.628 e5b5 Compacting 1@0 + 1@1 files
+2024/11/28-15:03:05.631 e5b5 Generated table #79@0: 2815 keys, 76731 bytes
+2024/11/28-15:03:05.631 e5b5 Compacted 1@0 + 1@1 files => 76731 bytes
+2024/11/28-15:03:05.633 e5b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-15:03:05.633 e5b5 Delete type=2 #78
+2024/11/28-15:03:05.633 e5b5 Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 30434 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-15:03:12.249 e5b7 Compacting 1@1 + 1@2 files
+2024/11/28-15:03:12.258 e5b7 Generated table #80@1: 1806 keys, 161329 bytes
+2024/11/28-15:03:12.258 e5b7 Compacted 1@1 + 1@2 files => 161329 bytes
+2024/11/28-15:03:12.271 e5b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-15:03:12.272 e5b7 Delete type=2 #76
+2024/11/28-15:03:12.272 e5b7 Delete type=2 #73
+2024/11/28-15:03:12.272 e5b7 Delete type=2 #79
+2024/11/28-15:03:23.445 e5aa Level-0 table #82: started
+2024/11/28-15:03:23.448 e5aa Level-0 table #82: 3535 bytes OK
+2024/11/28-15:03:23.449 e5aa Delete type=0 #77
+2024/11/28-15:03:23.450 e5aa Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-15:03:24.170 e5ab Compacting 1@1 + 1@2 files
+2024/11/28-15:03:24.174 e5ab Generated table #83@1: 1810 keys, 161598 bytes
+2024/11/28-15:03:24.174 e5ab Compacted 1@1 + 1@2 files => 161598 bytes
+2024/11/28-15:03:24.181 e5ab compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-15:03:24.182 e5ab Delete type=2 #80
+2024/11/28-15:03:24.182 e5ab Delete type=2 #82
+2024/11/28-15:04:17.495 e5aa Level-0 table #85: started
+2024/11/28-15:04:17.497 e5aa Level-0 table #85: 27678 bytes OK
+2024/11/28-15:04:17.498 e5aa Delete type=0 #81
+2024/11/28-15:04:17.498 e5aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/28-15:04:17.498 e5aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01 \x03\x00\x90\xb1\xc547yB\x00\x01O\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00p\x00e\x00n\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00c\x00d\x00n\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00S\x00p\x00o\x00t\x00i\x00f\x00y\x00_\x002\x005\x006\x00.\x001\x007\x00e\x004\x001\x00e\x005\x008\x00.\x00p\x00n\x00g' @ 30576 : 1
+2024/11/28-15:04:17.498 e5aa Compacting 1@1 + 1@2 files
+2024/11/28-15:04:17.501 e5aa Generated table #86@1: 1424 keys, 126361 bytes
+2024/11/28-15:04:17.501 e5aa Compacted 1@1 + 1@2 files => 126361 bytes
+2024/11/28-15:04:17.503 e5aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-15:04:17.503 e5aa Delete type=2 #85
+2024/11/28-15:04:17.503 e5aa Delete type=2 #83
+2024/11/28-15:04:17.503 e5aa Manual compaction at level-1 from '\x00\x06\x01 \x03\x00\x90\xb1\xc547yB\x00\x01O\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00p\x00e\x00n\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00c\x00d\x00n\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00S\x00p\x00o\x00t\x00i\x00f\x00y\x00_\x002\x005\x006\x00.\x001\x007\x00e\x004\x001\x00e\x005\x008\x00.\x00p\x00n\x00g' @ 30576 : 1 .. (end); will stop at (end)

@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donazione"
+   },
+   "extDescription": {
+      "message": "Aggiunge «Visualizza immagine di sfondo» al menu contestuale."
+   },
+   "extName": {
+      "message": "Visualizza immagine di sfondo"
+   },
+   "failure": {
+      "message": "Impossibile visualizzare le immagini di sfondo"
+   },
+   "reload": {
+      "message": "Ricarica le pagine dopo aver installato o aggiornato l'estensione."
+   },
+   "report": {
+      "message": "Segnala un problema?"
+   },
+   "review": {
+      "message": "Revisione"
+   },
+   "security": {
+      "message": "L'estensione non può essere eseguita su pagine speciali."
+   }
+}

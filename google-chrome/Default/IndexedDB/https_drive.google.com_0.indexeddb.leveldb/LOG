@@ -1,0 +1,10 @@
+2024/11/28-19:37:53.823 3f2 Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/11/28-19:37:53.827 3f2 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-19:37:54.328 400 Level-0 table #5: started
+2024/11/28-19:37:54.331 400 Level-0 table #5: 4152 bytes OK
+2024/11/28-19:37:54.334 400 Delete type=0 #3
+2024/11/28-19:37:54.334 3f2 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-19:37:55.914 3f2 Level-0 table #7: started
+2024/11/28-19:37:55.915 3f2 Level-0 table #7: 2276 bytes OK
+2024/11/28-19:37:55.918 3f2 Delete type=0 #4
+2024/11/28-19:37:55.918 3f4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

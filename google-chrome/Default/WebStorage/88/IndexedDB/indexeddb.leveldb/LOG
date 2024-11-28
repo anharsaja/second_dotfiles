@@ -1,0 +1,7 @@
+2024/11/28-01:55:39.455 e5a9 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/WebStorage/88/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/28-01:55:39.455 e5a9 Recovering log #4
+2024/11/28-01:55:39.455 e5a9 Reusing old log /home/anharsaja/.config/google-chrome/Default/WebStorage/88/IndexedDB/indexeddb.leveldb/000004.log 
+2024/11/28-01:55:39.472 e5ab Level-0 table #8: started
+2024/11/28-01:55:39.475 e5ab Level-0 table #8: 1892 bytes OK
+2024/11/28-01:55:39.477 e5ab Delete type=0 #4
+2024/11/28-01:55:39.477 e5a9 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

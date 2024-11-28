@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Lahjoitus"
+   },
+   "extDescription": {
+      "message": "Lisää ”Näytä taustakuva” kontekstivalikkoon."
+   },
+   "extName": {
+      "message": "Näytä taustakuva"
+   },
+   "failure": {
+      "message": "Taustakuvia ei voi katsella"
+   },
+   "reload": {
+      "message": "Lataa sivut uudelleen laajennuksen asentamisen tai päivityksen jälkeen."
+   },
+   "report": {
+      "message": "Ilmoita ongelma?"
+   },
+   "review": {
+      "message": "Arvostelu"
+   },
+   "security": {
+      "message": "Laajennuksia ei saa käyttää erikoissivuilla."
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donorystė"
+   },
+   "extDescription": {
+      "message": "Į kontekstinį meniu įtraukite „Rodyti fono paveikslėlį“."
+   },
+   "extName": {
+      "message": "Rodyti fono paveikslėlį"
+   },
+   "failure": {
+      "message": "Negalima rodyti fono paveikslėlio"
+   },
+   "reload": {
+      "message": "Įdiegę arba atnaujinę plėtinį iš naujo įkelkite puslapius."
+   },
+   "report": {
+      "message": "Pranešti apie problemą?"
+   },
+   "review": {
+      "message": "Apžvalga"
+   },
+   "security": {
+      "message": "Pratęsimo neleidžiama paleisti specialiuose puslapiuose."
+   }
+}

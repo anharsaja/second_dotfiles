@@ -1,0 +1,35 @@
+2024/11/28-16:56:00.903 3f3 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-16:56:00.903 3f3 Recovering log #189
+2024/11/28-16:56:00.917 3f3 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000189.log 
+2024/11/28-16:56:00.956 400 Level-0 table #194: started
+2024/11/28-16:56:00.965 400 Level-0 table #194: 771894 bytes OK
+2024/11/28-16:56:00.968 400 Delete type=0 #189
+2024/11/28-16:56:00.969 3f2 Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-16:56:06.400 3f3 Compacting 1@1 + 1@2 files
+2024/11/28-16:56:06.406 3f3 Generated table #195@1: 582 keys, 55463 bytes
+2024/11/28-16:56:06.406 3f3 Compacted 1@1 + 1@2 files => 55463 bytes
+2024/11/28-16:56:06.408 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-17:54:33.030 3f4 Level-0 table #197: started
+2024/11/28-17:54:33.064 3f4 Level-0 table #197: 1434227 bytes OK
+2024/11/28-17:54:33.068 3f4 Delete type=2 #194
+2024/11/28-17:54:33.068 3f4 Delete type=0 #193
+2024/11/28-17:54:33.068 3f4 Delete type=2 #191
+2024/11/28-18:11:07.846 3f3 Compacting 1@1 + 1@2 files
+2024/11/28-18:11:07.862 3f3 Generated table #198@1: 594 keys, 50351 bytes
+2024/11/28-18:11:07.862 3f3 Compacted 1@1 + 1@2 files => 50351 bytes
+2024/11/28-18:11:07.864 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-18:11:08.230 3f3 Level-0 table #200: started
+2024/11/28-18:11:08.233 3f3 Level-0 table #200: 58167 bytes OK
+2024/11/28-18:11:08.235 3f3 Delete type=2 #195
+2024/11/28-18:11:08.236 3f3 Delete type=2 #197
+2024/11/28-18:11:08.236 3f3 Delete type=0 #196
+2024/11/28-18:11:08.237 3f3 Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-18:11:15.381 3f3 Compacting 1@1 + 1@2 files
+2024/11/28-18:11:15.396 3f3 Generated table #201@1: 576 keys, 53777 bytes
+2024/11/28-18:11:15.396 3f3 Compacted 1@1 + 1@2 files => 53777 bytes
+2024/11/28-18:11:15.398 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-18:11:15.398 3f3 Delete type=2 #198
+2024/11/28-18:11:15.398 3f3 Delete type=2 #200
+2024/11/28-19:03:02.157 3f3 Level-0 table #203: started
+2024/11/28-19:03:02.188 3f3 Level-0 table #203: 1369112 bytes OK
+2024/11/28-19:03:02.192 3f3 Delete type=0 #199

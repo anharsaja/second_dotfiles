@@ -1,0 +1,14 @@
+2024/11/23-22:05:25.323 b2f Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_dotfiles-docs.vercel.app_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-22:05:25.324 b2f Recovering log #14
+2024/11/23-22:05:25.324 b2f Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_dotfiles-docs.vercel.app_0.indexeddb.leveldb/000014.log 
+2024/11/23-22:05:25.324 b2f Delete type=2 #7
+2024/11/23-22:05:25.356 b2f Level-0 table #19: started
+2024/11/23-22:05:25.358 b2f Level-0 table #19: 946 bytes OK
+2024/11/23-22:05:25.362 b2f Delete type=0 #14
+2024/11/23-22:05:25.362 b2f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 264 : 1
+2024/11/23-22:05:25.362 b2f Compacting 1@0 + 1@1 files
+2024/11/23-22:05:25.363 b2f Generated table #20@0: 46 keys, 1281 bytes
+2024/11/23-22:05:25.363 b2f Compacted 1@0 + 1@1 files => 1281 bytes
+2024/11/23-22:05:25.365 b2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/23-22:05:25.365 b2f Delete type=2 #19
+2024/11/23-22:05:25.365 b2f Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 264 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

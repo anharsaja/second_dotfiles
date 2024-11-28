@@ -1,0 +1,15 @@
+[Added Associations]
+image/png=swappy.desktop;
+image/jpeg=swappy.desktop;
+application/vnd.sqlite3=code-oss.desktop;
+application/pgp-encrypted=code-oss.desktop;
+
+[Default Applications]
+image/jpeg=swappy.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/vnd.sqlite3=code-oss.desktop
+application/pgp-encrypted=code-oss.desktop

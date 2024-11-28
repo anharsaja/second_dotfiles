@@ -1,0 +1,14 @@
+2024/11/24-20:01:01.536 7f7 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_stackoverflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/24-20:01:01.536 7f7 Recovering log #43
+2024/11/24-20:01:01.536 7f7 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_stackoverflow.com_0.indexeddb.leveldb/000043.log 
+2024/11/24-20:01:01.536 7f7 Delete type=2 #41
+2024/11/24-20:01:01.548 7f5 Level-0 table #48: started
+2024/11/24-20:01:01.550 7f5 Level-0 table #48: 934 bytes OK
+2024/11/24-20:01:01.552 7f5 Delete type=0 #43
+2024/11/24-20:01:01.553 7f7 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 507 : 1
+2024/11/24-20:01:01.553 7f7 Compacting 1@0 + 1@1 files
+2024/11/24-20:01:01.555 7f7 Generated table #49@0: 76 keys, 1601 bytes
+2024/11/24-20:01:01.555 7f7 Compacted 1@0 + 1@1 files => 1601 bytes
+2024/11/24-20:01:01.557 7f7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/24-20:01:01.557 7f7 Delete type=2 #48
+2024/11/24-20:01:01.557 7f5 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 507 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

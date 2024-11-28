@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "기부"
+   },
+   "extDescription": {
+      "message": "컨텍스트 메뉴에 “배경 이미지 표시”를 추가합니다."
+   },
+   "extName": {
+      "message": "배경 이미지 표시"
+   },
+   "failure": {
+      "message": "배경 이미지를 표시할 수 없습니다"
+   },
+   "reload": {
+      "message": "확장 프로그램 설치 또는 업데이트 후 페이지를 다시 불러와야 합니다."
+   },
+   "report": {
+      "message": "문제를 보고하시겠습니까?"
+   },
+   "review": {
+      "message": "평가"
+   },
+   "security": {
+      "message": "확장 프로그램은 특수 페이지에서 실행할 수 없습니다."
+   }
+}

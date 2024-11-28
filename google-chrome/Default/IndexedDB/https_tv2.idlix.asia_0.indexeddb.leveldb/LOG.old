@@ -1,0 +1,48 @@
+2024/11/28-01:42:42.174 dbeb Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_tv2.idlix.asia_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-01:42:42.175 dbeb Recovering log #178
+2024/11/28-01:42:42.175 dbeb Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_tv2.idlix.asia_0.indexeddb.leveldb/000178.log 
+2024/11/28-01:42:42.175 dbeb Delete type=2 #176
+2024/11/28-01:42:42.195 dbed Level-0 table #183: started
+2024/11/28-01:42:42.197 dbed Level-0 table #183: 1412 bytes OK
+2024/11/28-01:42:42.200 dbed Delete type=0 #178
+2024/11/28-01:42:42.200 dbeb Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at '\x00=\x00\x00\x05' @ 2051 : 1
+2024/11/28-01:42:42.201 dbeb Compacting 1@0 + 1@1 files
+2024/11/28-01:42:42.203 dbeb Generated table #184@0: 369 keys, 4564 bytes
+2024/11/28-01:42:42.203 dbeb Compacted 1@0 + 1@1 files => 4564 bytes
+2024/11/28-01:42:42.205 dbeb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-01:42:42.206 dbeb Delete type=2 #183
+2024/11/28-01:42:42.206 dbeb Manual compaction at level-0 from '\x00=\x00\x00\x05' @ 2051 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-01:42:47.099 dbf8 Level-0 table #186: started
+2024/11/28-01:42:47.106 dbf8 Level-0 table #186: 936 bytes OK
+2024/11/28-01:42:47.108 dbf8 Delete type=2 #180
+2024/11/28-01:42:47.108 dbf8 Delete type=0 #182
+2024/11/28-01:42:47.109 dbeb Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at '\x00>\x00\x00\x05' @ 2084 : 1
+2024/11/28-01:42:47.109 dbeb Compacting 1@0 + 1@1 files
+2024/11/28-01:42:47.110 dbeb Generated table #187@0: 373 keys, 4591 bytes
+2024/11/28-01:42:47.111 dbeb Compacted 1@0 + 1@1 files => 4591 bytes
+2024/11/28-01:42:47.112 dbeb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-01:42:47.112 dbeb Delete type=2 #186
+2024/11/28-01:42:47.113 dbeb Manual compaction at level-0 from '\x00>\x00\x00\x05' @ 2084 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-01:42:49.479 dbf8 Manual compaction at level-0 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-01:44:19.892 dbed Level-0 table #189: started
+2024/11/28-01:44:19.893 dbed Level-0 table #189: 1293 bytes OK
+2024/11/28-01:44:19.895 dbed Delete type=2 #184
+2024/11/28-01:44:19.895 dbed Delete type=0 #185
+2024/11/28-01:44:19.896 dbeb Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at '\x00@\x00\x00\x05' @ 2150 : 1
+2024/11/28-01:44:19.896 dbeb Compacting 1@0 + 1@1 files
+2024/11/28-01:44:19.897 dbeb Generated table #190@0: 389 keys, 4709 bytes
+2024/11/28-01:44:19.897 dbeb Compacted 1@0 + 1@1 files => 4709 bytes
+2024/11/28-01:44:19.899 dbeb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-01:44:19.899 dbeb Delete type=2 #189
+2024/11/28-01:44:19.899 dbeb Manual compaction at level-0 from '\x00@\x00\x00\x05' @ 2150 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-01:44:29.263 dbf7 Level-0 table #192: started
+2024/11/28-01:44:29.264 dbf7 Level-0 table #192: 943 bytes OK
+2024/11/28-01:44:29.266 dbf7 Delete type=0 #188
+2024/11/28-01:44:29.266 dbf7 Delete type=2 #187
+2024/11/28-01:44:29.266 dbec Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x00\x00\x05' @ 2183 : 1
+2024/11/28-01:44:29.266 dbec Compacting 1@0 + 1@1 files
+2024/11/28-01:44:29.268 dbec Generated table #193@0: 397 keys, 4802 bytes
+2024/11/28-01:44:29.268 dbec Compacted 1@0 + 1@1 files => 4802 bytes
+2024/11/28-01:44:29.270 dbec compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-01:44:29.270 dbec Delete type=2 #192
+2024/11/28-01:44:29.270 dbec Manual compaction at level-0 from '\x00A\x00\x00\x05' @ 2183 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)

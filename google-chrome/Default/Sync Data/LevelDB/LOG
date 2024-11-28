@@ -1,0 +1,21 @@
+2024/11/28-16:55:54.061 3f3 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/28-16:55:54.066 3f3 Recovering log #120
+2024/11/28-16:55:54.070 3f3 Reusing old log /home/anharsaja/.config/google-chrome/Default/Sync Data/LevelDB/000120.log 
+2024/11/28-17:49:15.309 3f4 Level-0 table #124: started
+2024/11/28-17:49:15.322 3f4 Level-0 table #124: 108924 bytes OK
+2024/11/28-17:49:15.330 3f4 Delete type=0 #120
+2024/11/28-19:11:32.024 3f4 Level-0 table #126: started
+2024/11/28-19:11:32.043 3f4 Level-0 table #126: 110266 bytes OK
+2024/11/28-19:11:32.047 3f4 Delete type=0 #123
+2024/11/28-19:34:58.313 3f4 Level-0 table #128: started
+2024/11/28-19:34:58.325 3f4 Level-0 table #128: 110554 bytes OK
+2024/11/28-19:34:58.327 3f4 Delete type=0 #125
+2024/11/28-19:34:58.327 3f4 Compacting 4@0 + 1@1 files
+2024/11/28-19:34:58.331 3f4 Generated table #129@0: 173 keys, 33504 bytes
+2024/11/28-19:34:58.331 3f4 Compacted 4@0 + 1@1 files => 33504 bytes
+2024/11/28-19:34:58.333 3f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-19:34:58.333 3f4 Delete type=2 #121
+2024/11/28-19:34:58.333 3f4 Delete type=2 #124
+2024/11/28-19:34:58.333 3f4 Delete type=2 #118
+2024/11/28-19:34:58.333 3f4 Delete type=2 #128
+2024/11/28-19:34:58.333 3f4 Delete type=2 #126

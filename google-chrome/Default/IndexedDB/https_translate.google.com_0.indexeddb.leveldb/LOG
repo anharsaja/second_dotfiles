@@ -1,0 +1,10 @@
+2024/11/25-17:50:02.590 3dc Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_translate.google.com_0.indexeddb.leveldb since it was missing.
+2024/11/25-17:50:02.594 3dc Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_translate.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/25-17:50:02.601 3e9 Level-0 table #5: started
+2024/11/25-17:50:02.604 3e9 Level-0 table #5: 1294 bytes OK
+2024/11/25-17:50:02.607 3e9 Delete type=0 #3
+2024/11/25-17:50:02.608 3db Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/25-17:50:03.359 3dc Level-0 table #7: started
+2024/11/25-17:50:03.361 3dc Level-0 table #7: 1874 bytes OK
+2024/11/25-17:50:03.363 3dc Delete type=0 #4
+2024/11/25-17:50:03.363 3da Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

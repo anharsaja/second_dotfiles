@@ -1,0 +1,7 @@
+2024/11/23-22:44:44.816 b23 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_dev.to_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-22:44:44.816 b23 Recovering log #4
+2024/11/23-22:44:44.816 b23 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_dev.to_0.indexeddb.leveldb/000004.log 
+2024/11/23-22:44:44.828 b2f Level-0 table #8: started
+2024/11/23-22:44:44.830 b2f Level-0 table #8: 1831 bytes OK
+2024/11/23-22:44:44.832 b2f Delete type=0 #4
+2024/11/23-22:44:44.832 b2f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Hack The Box",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay"
+}

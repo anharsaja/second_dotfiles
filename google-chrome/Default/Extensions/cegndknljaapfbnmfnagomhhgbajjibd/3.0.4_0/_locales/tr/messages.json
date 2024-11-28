@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Bağış"
+   },
+   "extDescription": {
+      "message": "Bağlam menüsüne “Arka Plan Resmini Görüntüle” ekler."
+   },
+   "extName": {
+      "message": "Arka Plan Resmini Görüntüle"
+   },
+   "failure": {
+      "message": "Arka plan resimleri görüntülenemiyor"
+   },
+   "reload": {
+      "message": "Uzantıyı yükledikten veya güncelledikten sonra sayfaları yeniden yükleyin."
+   },
+   "report": {
+      "message": "Sorun bildir?"
+   },
+   "review": {
+      "message": "Gözden geçirmek"
+   },
+   "security": {
+      "message": "Uzantının özel sayfalarda çalışmasına izin verilmiyor."
+   }
+}

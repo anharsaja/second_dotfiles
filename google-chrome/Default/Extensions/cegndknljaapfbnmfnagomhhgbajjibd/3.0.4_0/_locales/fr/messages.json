@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Don"
+   },
+   "extDescription": {
+      "message": "Ajoute « Afficher l'image de fond » au menu contextuel."
+   },
+   "extName": {
+      "message": "Afficher l'image de fond"
+   },
+   "failure": {
+      "message": "Impossible d'afficher l'image de fond"
+   },
+   "reload": {
+      "message": "Rechargez les pages après l'installation ou la mise à jour de l'extension."
+   },
+   "report": {
+      "message": "Signaler un problème?"
+   },
+   "review": {
+      "message": "Revoir"
+   },
+   "security": {
+      "message": "L'extension n'est pas autorisée à s'exécuter sur des pages spéciales."
+   }
+}

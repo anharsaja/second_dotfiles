@@ -1,0 +1,5 @@
+2024/11/27-06:56:05.213 d8a Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.freepik.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/27-06:56:05.214 d8a Recovering log #38
+2024/11/27-06:56:05.214 d8a Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.freepik.com_0.indexeddb.leveldb/000038.log 
+2024/11/27-06:56:05.214 d8a Delete type=2 #37
+2024/11/27-06:56:05.259 d8c Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

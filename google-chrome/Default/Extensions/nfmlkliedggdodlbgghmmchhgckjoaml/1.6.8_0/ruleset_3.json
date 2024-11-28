@@ -1,0 +1,88 @@
+[{
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+            }
+        },
+        "condition": {
+            "urlFilter": "||akamaized.net/audio/",
+            "resourceTypes": ["media"],
+            "initiatorDomains": ["open.spotify.com"]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+            }
+        },
+        "condition": {
+            "urlFilter": "||scdn.co/audio/",
+            "resourceTypes": ["media"],
+            "initiatorDomains": ["open.spotify.com"]
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+            }
+        },
+        "condition": {
+            "urlFilter": "||scdn.co/mp3-ad/",
+            "resourceTypes": ["media"],
+            "initiatorDomains": ["open.spotify.com"]
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+            }
+        },
+        "condition": {
+            "urlFilter": "||spotifycdn.com/audio/",
+            "resourceTypes": ["media"],
+            "initiatorDomains": ["open.spotify.com"]
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "redirect": {
+                "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+            },
+            "type": "redirect"
+        },
+        "condition": {
+            "initiatorDomains": ["open.spotify.com"],
+            "requestDomains": ["2mdn.net", "amillionads.com"],
+            "resourceTypes": ["media"]
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "||spotify.com/storage-resolve/files/audio/interactive/*",
+            "resourceTypes": ["xmlhttprequest"],
+            "initiatorDomains": ["open.spotify.com"]
+        }
+    }
+]

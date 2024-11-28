@@ -1,0 +1,15 @@
+2024/11/26-19:30:29.622 5235 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/26-19:30:29.622 5235 Recovering log #15
+2024/11/26-19:30:29.622 5235 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/000015.log 
+2024/11/26-19:30:29.623 5235 Delete type=2 #14
+2024/11/26-19:30:29.926 5236 Level-0 table #20: started
+2024/11/26-19:30:29.928 5236 Level-0 table #20: 1301 bytes OK
+2024/11/26-19:30:29.934 5236 Delete type=0 #15
+2024/11/26-19:30:29.936 5234 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 376 : 1
+2024/11/26-19:30:29.936 5234 Compacting 1@0 + 1@1 files
+2024/11/26-19:30:29.941 5234 Generated table #21@0: 94 keys, 1796 bytes
+2024/11/26-19:30:29.941 5234 Compacted 1@0 + 1@1 files => 1796 bytes
+2024/11/26-19:30:29.943 5234 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/26-19:30:29.945 5234 Delete type=2 #20
+2024/11/26-19:30:29.946 5236 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 376 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/26-19:30:31.867 5240 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

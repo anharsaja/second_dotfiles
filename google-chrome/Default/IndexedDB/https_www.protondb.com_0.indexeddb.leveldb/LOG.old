@@ -1,0 +1,14 @@
+2024/11/28-16:56:02.863 3f4 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.protondb.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-16:56:02.863 3f4 Recovering log #33
+2024/11/28-16:56:02.864 3f4 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.protondb.com_0.indexeddb.leveldb/000033.log 
+2024/11/28-16:56:02.864 3f4 Delete type=2 #31
+2024/11/28-16:56:02.872 402 Level-0 table #38: started
+2024/11/28-16:56:02.879 402 Level-0 table #38: 950 bytes OK
+2024/11/28-16:56:02.882 402 Delete type=0 #33
+2024/11/28-16:56:02.882 3f3 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 441 : 1
+2024/11/28-16:56:02.883 3f3 Compacting 1@0 + 1@1 files
+2024/11/28-16:56:02.884 3f3 Generated table #39@0: 29 keys, 1034 bytes
+2024/11/28-16:56:02.885 3f3 Compacted 1@0 + 1@1 files => 1034 bytes
+2024/11/28-16:56:02.886 3f3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-16:56:02.886 3f3 Delete type=2 #38
+2024/11/28-16:56:02.887 3f3 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 441 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

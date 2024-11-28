@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Derma"
+   },
+   "extDescription": {
+      "message": "Menambahkan “Lihat Imej Latar Belakang” pada menu konteks."
+   },
+   "extName": {
+      "message": "Lihat Imej Latar Belakang"
+   },
+   "failure": {
+      "message": "Tidak dapat melihat imej latar belakang"
+   },
+   "reload": {
+      "message": "Muat semula halaman selepas memasang atau mengemas kini sambungan."
+   },
+   "report": {
+      "message": "Laporkan masalah?"
+   },
+   "review": {
+      "message": "Semakan"
+   },
+   "security": {
+      "message": "Sambungan tidak dibenarkan untuk dijalankan pada halaman khas."
+   }
+}

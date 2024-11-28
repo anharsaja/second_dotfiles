@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donació"
+   },
+   "extDescription": {
+      "message": "Afegeix «Visualitza la imatge de fons» al menú contextual."
+   },
+   "extName": {
+      "message": "Visualitza la imatge de fons"
+   },
+   "failure": {
+      "message": "No es poden veure imatges de fons"
+   },
+   "reload": {
+      "message": "Torneu a carregar les pàgines després d'instal·lar o actualitzar l'extensió."
+   },
+   "report": {
+      "message": "Informar d'un problema?"
+   },
+   "review": {
+      "message": "Revisió"
+   },
+   "security": {
+      "message": "L'extensió no es pot executar en pàgines especials."
+   }
+}

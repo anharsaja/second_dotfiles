@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donation"
+   },
+   "extDescription": {
+      "message": "Tilføjer »Vis baggrundsbillede« til kontekstmenuen."
+   },
+   "extName": {
+      "message": "Vis baggrundsbillede"
+   },
+   "failure": {
+      "message": "Kan ikke se baggrundsbilleder"
+   },
+   "reload": {
+      "message": "Genindlæs sider efter installation eller opdatering af udvidelsen."
+   },
+   "report": {
+      "message": "Rapporter et problem?"
+   },
+   "review": {
+      "message": "Anmeldelse"
+   },
+   "security": {
+      "message": "Udvidelsen må ikke køre på særlige sider."
+   }
+}

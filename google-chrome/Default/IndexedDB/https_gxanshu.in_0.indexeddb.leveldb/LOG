@@ -1,0 +1,3 @@
+2024/11/26-19:06:56.474 a30 Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_gxanshu.in_0.indexeddb.leveldb since it was missing.
+2024/11/26-19:06:56.478 a30 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_gxanshu.in_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/26-19:06:56.488 a30 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

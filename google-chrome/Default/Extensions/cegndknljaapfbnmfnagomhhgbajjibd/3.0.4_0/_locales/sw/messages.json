@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Mchango"
+   },
+   "extDescription": {
+      "message": "Inaongeza “Tazama Picha ya Mandharinyuma” kwenye menyu ya muktadha."
+   },
+   "extName": {
+      "message": "Tazama Picha ya Mandharinyuma"
+   },
+   "failure": {
+      "message": "Haiwezi kuona picha za usuli"
+   },
+   "reload": {
+      "message": "Pakia upya kurasa baada ya kusakinisha au kusasisha kiendelezi."
+   },
+   "report": {
+      "message": "Ripoti suala?"
+   },
+   "review": {
+      "message": "Kagua"
+   },
+   "security": {
+      "message": "Kiendelezi hakiruhusiwi kuendeshwa kwenye kurasa maalum."
+   }
+}

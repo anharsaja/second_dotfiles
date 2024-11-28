@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donacija"
+   },
+   "extDescription": {
+      "message": "Dodaje „Pogledaj pozadinsku sliku“ u kontekstni izbornik."
+   },
+   "extName": {
+      "message": "Pogledaj pozadinsku sliku"
+   },
+   "failure": {
+      "message": "Nije moguće vidjeti pozadinsku sliku"
+   },
+   "reload": {
+      "message": "Ponovno učitavanje stranica nakon instaliranja ili ažuriranja proširenja."
+   },
+   "report": {
+      "message": "Prijaviti problem?"
+   },
+   "review": {
+      "message": "Pregled"
+   },
+   "security": {
+      "message": "Ekstenzija se ne smije izvoditi na posebnim stranicama."
+   }
+}

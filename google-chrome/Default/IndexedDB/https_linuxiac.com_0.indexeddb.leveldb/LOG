@@ -1,0 +1,14 @@
+2024/11/28-01:42:12.598 dbed Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_linuxiac.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-01:42:12.598 dbed Recovering log #17
+2024/11/28-01:42:12.598 dbed Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_linuxiac.com_0.indexeddb.leveldb/000017.log 
+2024/11/28-01:42:12.599 dbed Delete type=2 #15
+2024/11/28-01:42:12.703 dbeb Level-0 table #22: started
+2024/11/28-01:42:12.706 dbeb Level-0 table #22: 921 bytes OK
+2024/11/28-01:42:12.720 dbeb Delete type=0 #17
+2024/11/28-01:42:12.720 dbeb Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 276 : 1
+2024/11/28-01:42:12.720 dbeb Compacting 1@0 + 1@1 files
+2024/11/28-01:42:12.729 dbeb Generated table #23@0: 58 keys, 1408 bytes
+2024/11/28-01:42:12.729 dbeb Compacted 1@0 + 1@1 files => 1408 bytes
+2024/11/28-01:42:12.731 dbeb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-01:42:12.732 dbeb Delete type=2 #22
+2024/11/28-01:42:12.732 dbeb Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 276 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

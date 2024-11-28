@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "寄付"
+   },
+   "extDescription": {
+      "message": "コンテキストメニューに「背景画像を表示」を追加します。"
+   },
+   "extName": {
+      "message": "背景画像を表示"
+   },
+   "failure": {
+      "message": "背景画像を表示できません"
+   },
+   "reload": {
+      "message": "拡張機能のインストールとアップデートの後はページを再読み込みしてください。"
+   },
+   "report": {
+      "message": "問題を報告しますか？"
+   },
+   "review": {
+      "message": "評価"
+   },
+   "security": {
+      "message": "拡張機能は特殊なページ上では実行を許可されていません。"
+   }
+}

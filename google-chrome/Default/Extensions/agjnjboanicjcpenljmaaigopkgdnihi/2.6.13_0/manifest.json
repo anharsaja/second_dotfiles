@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Popup"
+   },
+   "author": "Timeraa",
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "content-scripts/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "content-scripts/iframe.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "content-scripts/premid.js" ],
+      "matches": [ "https://beta.premid.app/*", "https://premid.app/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqIXjn6VMdNQ0dXY49ckY1sQPTrW+Syjp/w96kiwjtPRyHVKq7fPO4PYZmRJisAitT/kksj/tb/XfMh37ZmoHJuOn5gMX1RI6zkiZqVwyTct0k4zY3rIN5+TxuZfoyoEiXhwkqxxnGNL/OfexlWI3/syL2XNeu1tonJaGN6oFBHHzqir5pEFJeh1uLgY1vuyO1SfHvqZb5HL/ENNf3S0wYUhHXqf8fwS19KPJQqrOE1yU8j254um4ZZlGYWTe3WY2VnfriHdGgnB4M0B6wc5gAQ0A3oS2feoWSh0OQZBKy/aXdywOupN76VjkBBzkJ76GAwOQFPbbgAPZL9Xv886ZhQIDAQAB",
+   "manifest_version": 3,
+   "name": "PreMiD",
+   "permissions": [ "tabs", "storage", "unlimitedStorage", "alarms", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.6.13",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "variableGetterDependencies.js", "presences/*" ]
+   } ]
+}

@@ -1,0 +1,6 @@
+2024/11/26-21:41:24.151 48f Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_progate.com_0.indexeddb.leveldb since it was missing.
+2024/11/26-21:41:24.155 48f Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_progate.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/26-21:41:24.182 491 Level-0 table #5: started
+2024/11/26-21:41:24.185 491 Level-0 table #5: 1308 bytes OK
+2024/11/26-21:41:24.186 491 Delete type=0 #3
+2024/11/26-21:41:24.187 48f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

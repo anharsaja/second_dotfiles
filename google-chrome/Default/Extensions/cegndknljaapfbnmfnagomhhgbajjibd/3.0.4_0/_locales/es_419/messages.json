@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donación"
+   },
+   "extDescription": {
+      "message": "Agrega “Ver imagen de fondo” al menú contextual."
+   },
+   "extName": {
+      "message": "Ver imagen de fondo"
+   },
+   "failure": {
+      "message": "No se puede mostrar la imagen de fondo"
+   },
+   "reload": {
+      "message": "Vuelva a cargar la página después de instalar o actualizar la extensión."
+   },
+   "report": {
+      "message": "¿Reportar un problema?"
+   },
+   "review": {
+      "message": "Revisar"
+   },
+   "security": {
+      "message": "La extensión no puede ejecutarse en páginas especiales."
+   }
+}

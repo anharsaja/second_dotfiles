@@ -1,0 +1,26 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file:///*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgXeOyTo7gWbLEv9viXal3KKwHc06y24BPWomy83YHs5fQG9E5yBcQqIpdKI7YgL1r1phoUgkU/XWNuHp1ie8MAqExdyNz/Dkt7XiOw9YU7flSBVtrDDJq3qldqGN+sRj9GAD+2sgW3qIAQkiBlxzTIE1fLxJzgqYRxX8kMH2hAlUuptFKuiAWe2Hu6laVotJQ9LtJ3T1HJKzrUIULrk6iN/hR4C84lKnkJf7H2C7h/PbcD+pw31PXG60Xkbmrbp66m3DMZT+T5Pfe2xX4/nDoFKH5Sd7BcLOj0xo9zoGOPRhsPRsuaKl8VmZ53A8Kf7nywGxGT/221whbpyUVJILYwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.4"
+}

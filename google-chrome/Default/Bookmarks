@@ -1,0 +1,219 @@
+{
+   "checksum": "f10a38098606a588b9c20f651cb60589",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13234325060179874",
+            "date_last_used": "13332325460067089",
+            "guid": "c45e3fda-7358-4e7b-8e88-2230409a3741",
+            "id": "6",
+            "name": "Terjemahkan",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13239957435083098",
+            "date_last_used": "13374235411661134",
+            "guid": "2508eba6-d601-49ad-ae5c-3b3758532078",
+            "id": "7",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13234325004031865",
+            "date_last_used": "13377222305608214",
+            "guid": "a736cc9f-3abf-4de5-9bd0-c6ff1660d887",
+            "id": "8",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13234325004062988",
+            "date_last_used": "13377291063696582",
+            "guid": "eb82b3bf-a946-4ee3-8810-0df5462aff22",
+            "id": "9",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13278262536161455",
+            "date_last_used": "13377296076216460",
+            "guid": "ab9b5b0d-fd26-4046-9477-5d59dcaa2543",
+            "id": "10",
+            "name": "DuckDuckGo — Privasi sederhana.",
+            "type": "url",
+            "url": "https://duckduckgo.com/"
+         }, {
+            "date_added": "13282595087465064",
+            "date_last_used": "13377296272142616",
+            "guid": "f9abc1fa-3019-49ea-8411-ce47dcfc8dcd",
+            "id": "11",
+            "name": "Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         }, {
+            "date_added": "13295212503594776",
+            "date_last_used": "0",
+            "guid": "ebf0a1a7-f9f4-4353-8f00-cdf8881612df",
+            "id": "12",
+            "name": "Carbon Code",
+            "type": "url",
+            "url": "https://carbon.now.sh/"
+         }, {
+            "date_added": "13296735592683819",
+            "date_last_used": "13347734391237163",
+            "guid": "1c418a76-0c0e-4d08-8ae9-4312104661e3",
+            "id": "13",
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/z/"
+         }, {
+            "date_added": "13304381225196906",
+            "date_last_used": "13359626035753729",
+            "guid": "973a19fe-cde7-48bb-8a1c-48d212349a55",
+            "id": "14",
+            "name": "Sister",
+            "type": "url",
+            "url": "https://siakad.unej.ac.id/site/index"
+         }, {
+            "date_added": "13311849672661268",
+            "date_last_used": "13314545007212120",
+            "guid": "d3b70897-0073-4c4f-b2f0-cf7fb65f5def",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/"
+         }, {
+            "date_added": "13320855593424353",
+            "date_last_used": "0",
+            "guid": "cbc83a01-be08-4dbd-b5fd-2b181906e271",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GOLD",
+            "type": "url",
+            "url": "https://id.tradingview.com/chart/6cYLzKE4/?symbol=OANDA%3AXAUUSD"
+         }, {
+            "date_added": "13320856199353950",
+            "date_last_used": "0",
+            "guid": "542a1f92-d53f-46aa-82ec-baeee6c701e6",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GBP/JPY",
+            "type": "url",
+            "url": "https://id.tradingview.com/chart/6cYLzKE4/?symbol=FX%3AGBPJPY"
+         }, {
+            "date_added": "13321047014113563",
+            "date_last_used": "0",
+            "guid": "a8eca527-a98f-4ae4-8808-c45cceee70fe",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CHFJPY",
+            "type": "url",
+            "url": "https://id.tradingview.com/chart/6cYLzKE4/?symbol=FOREXCOM%3ACHFJPY"
+         }, {
+            "date_added": "13321047052300243",
+            "date_last_used": "13330640242221796",
+            "guid": "19f97e45-d1d9-4bc7-b9ba-3a6fdfbdb45d",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Exness",
+            "type": "url",
+            "url": "https://my.extrading.pro/pa/"
+         }, {
+            "date_added": "13332419272202263",
+            "date_last_used": "13361394427713629",
+            "guid": "7fb1398b-c1a3-4fe4-99e8-c01804e7a7f9",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ICON",
+            "type": "url",
+            "url": "https://www.iconfinder.com/"
+         }, {
+            "date_added": "13332514041655589",
+            "date_last_used": "13332514059301775",
+            "guid": "deb6d961-89f8-42b3-861b-2f857ffe297e",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "README",
+            "type": "url",
+            "url": "http://readme.so/"
+         }, {
+            "date_added": "13339682948597229",
+            "date_last_used": "13361839050737716",
+            "guid": "b5606bd4-f9f2-4667-b876-ff0e3181700e",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub Anhar",
+            "type": "url",
+            "url": "https://github.com/anharsaja"
+         }, {
+            "date_added": "13360439897822460",
+            "date_last_used": "0",
+            "guid": "932f2dd4-f12a-482a-a8f7-faeb563733e1",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Envato Elements: Unlimited Stock Videos, Music, Photos & Graphics",
+            "type": "url",
+            "url": "https://elements.envato.com/?utm_nooverride=1"
+         } ],
+         "date_added": "13376856737422880",
+         "date_last_used": "0",
+         "date_modified": "13360439897822460",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13372476468143109",
+            "date_last_used": "0",
+            "guid": "3697dd23-b762-4b16-86a8-235e1ea16e14",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Battle Through the Heavens Season 5 Episode 62 Subtitle Indonesia - Kazefuri",
+            "type": "url",
+            "url": "https://kazefuri.blog/battle-through-the-heavens-season-5-episode-62-subtitle-indonesia/"
+         } ],
+         "date_added": "13376856737422882",
+         "date_last_used": "0",
+         "date_modified": "13372476468143109",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376856737422883",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCbssbH33JwYAEbssbH33JwYAKV4ybn33JwYAEgAqGGVlS1pncWNObG5MWk1kNVpWYW9vRnc9PUgDEu4BCBcS6QEKHFJQUnlRUnZYeGdqVkdjNmp6c296bTRqTFNZdz0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9TckZMVFRJaU9GL0gxekppL0VZanV1NHFRZzhPcGZNOUJJd2tHTW1ydkFCeUh2bVV3K2NWcEhPTHJoV0ZJMXQ2RGo3RmlpNFE9PRgAIAAoADD1i4LPmJWGAzjfjb+8+DFA342/vPgxShxwdVB5MjNkYmVEcndwenkwR3doV2hjVHpiTHM9WiEiH////kZzSGRuSlovOGZPWlAzQURpZzJGcis0b2UvTT1lYqqqChLuAQgWEukBChxjcUFzWkRwM2tqSmRyQW0ycGRYUmYrai9MZnM9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JRTWFOOEQxR01zVlZXRy93Z3ZwdnhzY3RFRk1FdVR5KzQxM2VEd0l2ejZVMVMyM2F0WHlDeG9yUmlxa200OHQ2VG9WVjJ3PT0YACAJKAkwzcWUo6b7iQM49rvnkqsxQLqW8eS2MkocSk9WSzJ5SXRjQnB6cFNpNlk2d3gwWEk0Z0NFPVohIh////1NNldaN1VuZEszK3o3bGh5c2FCM0pMbUNZcVk9ZcjzP7sS7gEIFRLpAQocQ1haL3JqcUNsSmtPUFovbjNjYUU4R3FYRFFFPRJmWjpBRHF0QVp6b0Q4K08vTnlpRytyVFpUMU11L1NydlMxTnZveURmQnJsUGxsc0NISDl1SEllUG9FL3gwL2dNMVdDOFB0Vk1QQnhHbzRod1BpbUp4eWJ1TVFCYkY1Y2lMQWxJZz09GAAgACgAMI+YuuC46P8COLiOtLiQMUC4jrS4kDFKHGc4UWZVR28wRU1yamlrMjUzWEdWeG9jS2NoMD1aISIf///7cGRONkFrc1JpazVoVHcrbE9PbTY1ZzBCWEpZPWVsrWE4Eu4BCBMS6QEKHER4TnhXMmxNby9rTVgzQjVvd3FrQzFqZE1mZz0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9Tckh2MTZ2NUtNRUUwei9ldGphMWtGYVNjaU02TTVCcC9KN2c5M1dkczgwV2NmTWdJcGJCSEVTZlpsZzdId0ZnZUR6WS9zYXc9PRgAIAAoADDRyeqd9LH/AjiM0MLc5TBAjNDC3OUwShw0Mm9vMjhidVlubEczMTZ0cWRzaExIZFRvVHM9WiEiH///71NBVUUyd3NDRlNoUzhqVkxmbU4zc2xzTkpZdz1lAAAAABLuAQgSEukBChxuV1lBQ2ttSXJ0YmFGQ0dYWkFkbStmRjk0dXM9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3I2Y1dON1djWjZRL2VmRDVZMm9saG9LeHJTOHZSVnUrL3NtMzhtUURnS1QzNnRKSGMvbjRGYjhlMUdSMTVUYm5Lb2hSdVRBPT0YACAAKAAwuOWv19qa/QI44aXA3OUwQOGlwNzlMEocZmVVZlVoRFZGT1QrU2o3Z3Bsc0o3RmJyMG1jPVohIh///95oOWZvZWlwN0l2cExHMU1lRWZsZ1FpWnVTNm89ZY1WcT4S7QEIDBLoAQocbk5HL2JHbjFxeXZsMGNHUEpKY3JIcTdtdXY0PRJmWjpBRHF0QVp6b0Q4K08vTnlpRytyVFpUMU11L1Nycy9pVWkwWXdBU0ppZFN1MlZCT0tPdUI5dzUyUThZRWhtdFlxYmFsMXRQTlVWMDdib3dTU3VBUk93THhuOUJtNnRnTTc1Zz09GAAgACgAMIjI2Onns4kDOKv00r2FMECr9NK9hTBKHGIzY1lWUm9UbXdFRGxUcDlHaWJXN1kycE9mWT1aICIe/7hiMUxxR3MydWZ4c0FxR3VLUnVCNTl0ai9tWEU9ZW1yeywS7AEICBLnAQocZENnZlVZYzJLMmJXQ3JoUStMZWs2amlnNHM0PRJmWjpBRHF0QVp6b0Q4K08vTnlpRytyVFpUMU11L1NyTjA3M1I1UVdmU3p0VXVWYi9jb1U3NVRwR0pRRkxJalc0Q0ZFVk5ZSG5pTUhFcVFQcSt2WmRPMVZyS2NKOE1ZZThwOVZIUT09GAAgACgAMIjI2Onns4kDOPigp6q8L0D4oKeqvC9KHHdGdkVMVjVHU3JZMTJpYWhXZEFZaTJPTDIzUT1aHyId9G1sTHZ6QXdzMTJXVktXVC9UTTdPaWRLME9jMD1lmz2FthLtAQgQEugBChxGbWNCMG1lQTVSZDFmYWFUTUdtL2p5UG1KcGc9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JuZlhySWZMakF3UU82bkQwbG1tUEora2o1VDJHbXhONSt5Zi9iS3JqY25LOVdia3g0aGNDcWlicVM4M3M0WHI4ZTJ4ZGxRPT0YACAAKAAwgvjDypGV/QI40POcgeUwQNDznIHlMEocbEZjSG9NaVpIdlFiR3pkSlk2b3BaVUZ3TUtnPVogIh7//3k0aW1XMTBuTTJ2WG5iYmYycExqa255c2RZbz1ljVZxPhLsAQgKEucBChxZVTZPdEswRmEyTStsNHgzMUNIb2tWWG54SG89EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JvSU9ZamRwYUhIS1RGSURob2Izb01GWG84YXJBSjYrWFZSQjl1ZGpoZEZEN29UVVowSGpQZFRhUFVLTU9tUENKaEtBTGZRPT0YACAAKAAwiMjY6eeziQM45P+iq8YvQOT/oqvGL0ocTDYxeTdNNjNCVmxOeVU5SC8ydGc0Q05CMkowPVofIh37c2psVk5GbnJySjVkSTNncms4TENCRXJBdVZ3PWVKZmj4EuwBCAsS5wEKHERhTzNCOWQzUEZqK3BSWGc5YWdsTFBtZHhGRT0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9TckpPeStyR0kzZnQrL25OOEZOQ0tsT0hZaWYrRTFnODJTUFBqTFRLc0srNnl2VFFTWFB4REs4TVJHZmV5RHJmVzlvMVpiUWc9PRgAIAAoADCIyNjp57OJAzjp+Ji91i9A6fiYvdYvShxIa0tBSjd1MXYvaHBZS2lKSW94NEZtaHc4bVE9Wh8iHf1uNzkrd2lDRzd3Uy9YcW9xbkI1cHJkUzZmRzQ9ZfqR3tsS7AEICRLnAQocMnJpUXY0cEdxVE9UMW9XWnIvb3lvenRBTVpnPRJmWjpBRHF0QVp6b0Q4K08vTnlpRytyVFpUMU11L1NyZi81U0xpY0hhUm5tSUpNTkdUMGRVejRORXJKK0drVXAwd2hocmZoYWZlOXhFN2V0TTlZbW5LdVZIem1rbjZyRFJTYTA1UT09GAAgACgAMIjI2Onns4kDOPegp6q8L0D3oKeqvC9KHG90U0FuYkZxZG5FZC80MUtqR3hiYTJLNWdXOD1aHyId93pISXppQ3gwcVMxb2JWbGJZZUs1WHJSTG5ZND1l/ZyMShLtAQgPEugBChx4N1JZMWZNeXROcUVwRXEycHFHWUc4L3hOMHM9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3IwQzBvVHptQzFUeTkycDdrWDRTU1JlZlNFbzk1Q2l6enFGZ3ZDdUFCcVQ4dkZub0Z3WnhHYUtmM3BWeDQ1VVk1NW9kUTdnPT0YACAAKAAwiMjY6eeziQM41Y/vusMwQNWP77rDMEocdWdFT0RvWHVFZFVVSEhsckpPaUdQTTFHUHlVPVogIh7//WVhSUEyUFhPdHI4YW5KQ0w0WEZ5UkR3Mi9qdz1lzPJJHhLsAQgGEucBChxHSm1XKytmemZYNXdSNnJSNGtkWjNyaFAxN3M9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JTRXJjRy9EYW93bUFqMlVxenFhLzVYVDB6RC9qQWpic1dSUTduYzJpYWVFUzVEeTRtdjBIbFZYWmcyNElCOVNIcFVaNEd3PT0YACAAKAAwiMjY6eeziQM4+KCnqrwvQPigp6q8L0ocRWlTeHlUeStENGNDYUxiaE4vYnRPQ25la0VFPVofIh3Sam9rZ05kem5qUG9EYmprWVdsQjRJVHl0emNFPWXFz5ABEu0BCA4S6AEKHFdHSDdjWUNLblZXYU5td3o1eEdvY0V6dE1mND0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9TcjFTQmt5Y29adGwwdmtwejByT1ZqK2tUTE10c2RONXBtZ3B0RUxkZHp3MVdENkNaK295YnE2SStCSmFoZk5iSnphR3YwK0E9PRgAIAAoADCIyNjp57OJAzjtodHRpzBA7aHR0acwShwraisra1NpVU9tWFUwYWk1djY3SW5ta0J1WG89WiAiHv/3UkxLckt3Vkl4VkpJejVkeWFQcENVNzRBTVFZPWWN/Z2QEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeFd6d0t5R1IvWmRBdHYvcGtkRk5HLzVmbmg1WWplaXFRWkxTdk9sejJFUjluOG55cmRDbk52bWVHUkFWQkVTcVorVWc1WHRTdlRiZGYxTFBpT2E0b1d0V3RlRHc9PRgAIAAoADDb2qOwoPKJAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu4BCBES6QEKHGtObnF1emJTK3J3M3pZRWRVR0pOQzdscFRIOD0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9Tcnc0UTB0aXRPN2JFZDB5L0NPdzdUZlVUUHdvS2tyaUFkQ0hndFNzVHpYM0l5Z29uaFQ1cjZwZk9Fb2dKOUtJeUF3RzZZNHc9PRgAIAAoADDh97rrk5X9Aji68cGB5TBAuvHBgeUwShxHT3BYN0xJcmdpV0tBSXVrNkxTSTVoelhKOVU9WiEiH///vHQwRDBrUmVIMTd5S2wwTEMrRGFwQTRpRDVGVT1ljVZxPhLtAQgNEugBChxNZGxOZkptbDkvUDNyYThJWDVwVnIwZnhiU009EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JyOFFRTnc2cHVYLzc0aElDb3NCNjNqb0xaeTJtTm9LQ01XTG9Ld09xUW5MNFN4eUdWc0RuSThmZldUVDY3WFh4ZWdEdC93PT0YACAAKAAwiMjY6eeziQM47fH0k4swQO3x9JOLMEocMFJoNk11aWJldWw3eTBQZ1hCakdKVG9PUEhjPVogIh7/7jlFY3NGM1RBdlc5ckxLSzBjTHNyK0owS0tqdz1lgFR1jhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlUaElhUklrdUhHODlobXNrN1I2YW1XVDE2SXZ3c2tpcVd5RVZrQzJOWTV2ckdFUVFQQ05kVUdaSHFNeVhoelBjOFNEMkUzVmVDZVd0dUt1eVdWUkVYOGduWGxRPT0YACAAKAAw29qjsKDyiQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLuAQgUEukBChxoeS9TZmtWbDJUdUZNZTBnL1JKbTgvOEFFVlU9EmZaOkFEcXRBWnpvRDgrTy9OeWlHK3JUWlQxTXUvU3JlTGZmWWFTaDltcWFzRllkbFA2MWQ0azZWNGJidS9ORXdkUUg5ZlVYNm56T2hpM2hjY1FXL2VWZGZIenNMN1Yxd2Zjb2tRPT0YACAAKAAw+LC4wvywhgM4iuybi5AxQIrsm4uQMUocUjdVUmJ6Wko1NUFtTzVveXg1Nitoek5iSmNvPVohIh////c3UXV2SWlpUkVRUE5lQmVFbWNCdUF2bHdIK289ZchlBuUS6wEIBRLmAQocSEtOeWtkNGZWSWE5ZERQdUk3Snc0S0s2YjQ0PRJmWjpBRHF0QVp6b0Q4K08vTnlpRytyVFpUMU11L1NyVlN6R3kyMHN1SFJLUzZ5dEw4bVIvSGlWZWpYelF5TjVJbmR1UkpYekRkV2pZTzdJSGc1b2xWc0F0Tlo4SzByTzdQTFdYQT09GAAgACgAMPPQkZme9IgDOK+H/aelMkCvh/2npTJKHDgzQW1DZy92RHlaYjkvODFUYXJZeUtxU3hoaz1aHiIcNEZjamtscGFYRkVMV21tT0YzSGk2UjJHQmNrPWWVMqIAEuwBCAcS5wEKHEh3YnQ4ZHBqK0l0L01pZ3JCVlhxTjhXVzNKdz0SZlo6QURxdEFaem9EOCtPL055aUcrclRaVDFNdS9TcjRlbHp3c0JvODdxVFllRG1QZ0Q0c0pDRktyQUxuN2ZuUjlzbFRRTWI4SzNKMXR6eEIxbVBiZVBjc2ROZk04c1hEc3VuTFE9PRgAIAAoADCIyNjp57OJAzj4oKeqvC9A+KCnqrwvShwzSkxFYzBJMGhNdzNwaHBqVXZYVHV6eVZCZXc9Wh8iHellYkJ1YmpCcW5aU0lGdUtXT3Erdmk4aUNvTG89ZRX0gJgSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6b2VBU2FYNDZiSkZCQVZKUXFGbzl1SnFhRW84YWsrTDBoSWFVQm5VUm9sTnNKTkxBekE0ZDZMZm5sdWhSMUdSRW9nMmttGAAgACgAMNvao7Cg8okDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

@@ -1,0 +1,18 @@
+2024/11/27-01:20:00.594 11af Creating DB /home/anharsaja/.config/google-chrome/Default/WebStorage/132/IndexedDB/indexeddb.leveldb since it was missing.
+2024/11/27-01:20:00.598 11af Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/WebStorage/132/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/27-01:20:00.608 11ae Level-0 table #5: started
+2024/11/27-01:20:00.610 11ae Level-0 table #5: 1329 bytes OK
+2024/11/27-01:20:00.612 11ae Delete type=0 #3
+2024/11/27-01:20:00.612 11ae Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:21:49.839 11ae Level-0 table #7: started
+2024/11/27-01:21:49.847 11ae Level-0 table #7: 1412 bytes OK
+2024/11/27-01:21:49.849 11ae Delete type=0 #4
+2024/11/27-01:21:49.849 11ae Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/27-01:21:49.849 11ae Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x13\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x00u\x00n\x00d\x00e\x00f\x00i\x00n\x00e\x00d' @ 104 : 1
+2024/11/27-01:21:49.850 11ae Compacting 1@1 + 1@2 files
+2024/11/27-01:21:49.852 11ae Generated table #8@1: 33 keys, 1007 bytes
+2024/11/27-01:21:49.852 11ae Compacted 1@1 + 1@2 files => 1007 bytes
+2024/11/27-01:21:49.853 11ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:21:49.853 11ae Delete type=2 #7
+2024/11/27-01:21:49.853 11ae Delete type=2 #5
+2024/11/27-01:21:49.853 11ae Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x13\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x00u\x00n\x00d\x00e\x00f\x00i\x00n\x00e\x00d' @ 104 : 1 .. (end); will stop at (end)

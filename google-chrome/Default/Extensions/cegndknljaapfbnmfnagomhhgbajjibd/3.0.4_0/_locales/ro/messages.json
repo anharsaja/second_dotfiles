@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donare"
+   },
+   "extDescription": {
+      "message": "Adaugă „Vizualizare imagine de fundal” în meniul contextual."
+   },
+   "extName": {
+      "message": "Vizualizare imagine de fundal"
+   },
+   "failure": {
+      "message": "Nu se pot vizualiza imagini de fundal"
+   },
+   "reload": {
+      "message": "Reîncărcați paginile după instalarea sau actualizarea extensiei."
+   },
+   "report": {
+      "message": "Raportează o problemă?"
+   },
+   "review": {
+      "message": "Revizuire"
+   },
+   "security": {
+      "message": "Extensia nu are voie să ruleze pe pagini speciale."
+   }
+}

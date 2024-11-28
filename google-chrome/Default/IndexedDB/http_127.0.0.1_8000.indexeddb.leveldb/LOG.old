@@ -1,0 +1,47 @@
+2024/11/27-08:06:05.391 d8a Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/http_127.0.0.1_8000.indexeddb.leveldb/MANIFEST-000001
+2024/11/27-08:06:05.392 d8a Recovering log #866
+2024/11/27-08:06:05.392 d8a Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/http_127.0.0.1_8000.indexeddb.leveldb/000866.log 
+2024/11/27-08:06:05.393 d8a Delete type=2 #864
+2024/11/27-08:06:05.414 d8c Level-0 table #871: started
+2024/11/27-08:06:05.415 d8c Level-0 table #871: 932 bytes OK
+2024/11/27-08:06:05.418 d8c Delete type=0 #866
+2024/11/27-08:06:05.418 d8c Manual compaction at level-0 from ' \x1f\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '  \x01\x00\x00\x00' @ 0 : 0; will stop at ' \x1f\x01\x00\x00\x05' @ 9509 : 1
+2024/11/27-08:06:05.418 d8c Compacting 1@0 + 1@1 files
+2024/11/27-08:06:05.425 d8c Generated table #872@0: 772 keys, 8420 bytes
+2024/11/27-08:06:05.425 d8c Compacted 1@0 + 1@1 files => 8420 bytes
+2024/11/27-08:06:05.427 d8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/27-08:06:05.428 d8c Delete type=2 #871
+2024/11/27-08:06:05.428 d8a Manual compaction at level-0 from ' \x1f\x01\x00\x00\x05' @ 9509 : 1 .. '  \x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-08:06:08.642 d8c Level-0 table #874: started
+2024/11/27-08:06:08.644 d8c Level-0 table #874: 938 bytes OK
+2024/11/27-08:06:08.646 d8c Delete type=2 #868
+2024/11/27-08:06:08.646 d8c Delete type=0 #870
+2024/11/27-08:06:08.647 d8a Manual compaction at level-0 from '  \x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' !\x01\x00\x00\x00' @ 0 : 0; will stop at '  \x01\x00\x00\x05' @ 9542 : 1
+2024/11/27-08:06:08.647 d8a Compacting 1@0 + 1@1 files
+2024/11/27-08:06:08.650 d8a Generated table #875@0: 776 keys, 8433 bytes
+2024/11/27-08:06:08.650 d8a Compacted 1@0 + 1@1 files => 8433 bytes
+2024/11/27-08:06:08.652 d8a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/27-08:06:08.652 d8a Delete type=2 #874
+2024/11/27-08:06:08.653 d8a Manual compaction at level-0 from '  \x01\x00\x00\x05' @ 9542 : 1 .. ' !\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-08:06:12.515 d8c Level-0 table #877: started
+2024/11/27-08:06:12.517 d8c Level-0 table #877: 940 bytes OK
+2024/11/27-08:06:12.520 d8c Delete type=2 #872
+2024/11/27-08:06:12.521 d8c Delete type=0 #873
+2024/11/27-08:06:12.521 d8c Manual compaction at level-0 from ' !\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' "\x01\x00\x00\x00' @ 0 : 0; will stop at ' !\x01\x00\x00\x05' @ 9575 : 1
+2024/11/27-08:06:12.521 d8c Compacting 1@0 + 1@1 files
+2024/11/27-08:06:12.525 d8c Generated table #878@0: 781 keys, 8536 bytes
+2024/11/27-08:06:12.525 d8c Compacted 1@0 + 1@1 files => 8536 bytes
+2024/11/27-08:06:12.527 d8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/27-08:06:12.528 d8c Delete type=2 #877
+2024/11/27-08:06:12.529 d8c Manual compaction at level-0 from ' !\x01\x00\x00\x05' @ 9575 : 1 .. ' "\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-08:06:14.916 d8c Level-0 table #880: started
+2024/11/27-08:06:14.937 d8c Level-0 table #880: 939 bytes OK
+2024/11/27-08:06:14.940 d8c Delete type=2 #875
+2024/11/27-08:06:14.941 d8c Delete type=0 #876
+2024/11/27-08:06:14.941 d8b Manual compaction at level-0 from ' "\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' #\x01\x00\x00\x00' @ 0 : 0; will stop at ' "\x01\x00\x00\x05' @ 9608 : 1
+2024/11/27-08:06:14.942 d8b Compacting 1@0 + 1@1 files
+2024/11/27-08:06:14.946 d8b Generated table #881@0: 786 keys, 8519 bytes
+2024/11/27-08:06:14.946 d8b Compacted 1@0 + 1@1 files => 8519 bytes
+2024/11/27-08:06:14.949 d8b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/27-08:06:14.950 d8b Delete type=2 #880
+2024/11/27-08:06:14.951 d8b Manual compaction at level-0 from ' "\x01\x00\x00\x05' @ 9608 : 1 .. ' #\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

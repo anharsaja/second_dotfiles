@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Dar"
+   },
+   "extDescription": {
+      "message": "Přidá „Zobrazit obrázek na pozadí“ do kontextové nabídky."
+   },
+   "extName": {
+      "message": "Zobrazit obrázek na pozadí"
+   },
+   "failure": {
+      "message": "Nelze zobrazit obrázky na pozadí"
+   },
+   "reload": {
+      "message": "Po instalaci nebo aktualizaci rozšíření znovu načtěte stránku."
+   },
+   "report": {
+      "message": "Nahlásit problém?"
+   },
+   "review": {
+      "message": "Posouzení"
+   },
+   "security": {
+      "message": "Rozšíření není povoleno spouštět na speciálních stránkách."
+   }
+}

@@ -1,0 +1,13 @@
+2024/11/26-19:05:19.518 a31 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/26-19:05:19.519 a31 Recovering log #4
+2024/11/26-19:05:19.520 a31 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000004.log 
+2024/11/26-19:05:20.039 a32 Level-0 table #8: started
+2024/11/26-19:05:20.041 a32 Level-0 table #8: 13144 bytes OK
+2024/11/26-19:05:20.043 a32 Delete type=0 #4
+2024/11/26-19:05:20.044 a30 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/26-19:05:43.054 a31 Compacting 1@1 + 1@2 files
+2024/11/26-19:05:43.056 a31 Generated table #9@1: 137 keys, 8322 bytes
+2024/11/26-19:05:43.057 a31 Compacted 1@1 + 1@2 files => 8322 bytes
+2024/11/26-19:05:43.059 a31 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/26-19:05:43.059 a31 Delete type=2 #5
+2024/11/26-19:05:43.059 a31 Delete type=2 #8

@@ -1,0 +1,29 @@
+2024/11/28-19:08:12.176 3f2 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-19:08:12.176 3f2 Recovering log #202
+2024/11/28-19:08:12.178 3f2 Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000202.log 
+2024/11/28-19:08:12.531 3f4 Level-0 table #206: started
+2024/11/28-19:08:12.535 3f4 Level-0 table #206: 106409 bytes OK
+2024/11/28-19:08:12.538 3f4 Delete type=0 #202
+2024/11/28-19:08:12.538 400 Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at '\x008\x00\x00\x05' @ 79529 : 1
+2024/11/28-19:08:12.538 400 Compacting 1@0 + 1@1 files
+2024/11/28-19:08:12.546 400 Generated table #207@0: 1137 keys, 45040 bytes
+2024/11/28-19:08:12.546 400 Compacted 1@0 + 1@1 files => 45040 bytes
+2024/11/28-19:08:12.548 400 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-19:08:12.549 400 Delete type=2 #206
+2024/11/28-19:08:12.549 3f2 Manual compaction at level-0 from '\x008\x00\x00\x05' @ 79529 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-19:08:17.254 3f3 Compacting 1@1 + 1@2 files
+2024/11/28-19:08:17.299 3f3 Generated table #208@1: 587 keys, 58809 bytes
+2024/11/28-19:08:17.299 3f3 Compacted 1@1 + 1@2 files => 58809 bytes
+2024/11/28-19:08:17.305 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-19:08:17.306 3f3 Delete type=2 #201
+2024/11/28-19:08:17.306 3f3 Delete type=2 #207
+2024/11/28-19:08:17.306 3f3 Delete type=2 #203
+2024/11/28-19:27:18.220 3f2 Level-0 table #210: started
+2024/11/28-19:27:18.242 3f2 Level-0 table #210: 1185272 bytes OK
+2024/11/28-19:27:18.258 3f2 Delete type=0 #205
+2024/11/28-19:43:47.364 3f3 Compacting 1@1 + 1@2 files
+2024/11/28-19:43:47.371 3f3 Generated table #211@1: 608 keys, 61535 bytes
+2024/11/28-19:43:47.371 3f3 Compacted 1@1 + 1@2 files => 61535 bytes
+2024/11/28-19:43:47.373 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-19:43:47.373 3f3 Delete type=2 #210
+2024/11/28-19:43:47.373 3f3 Delete type=2 #208

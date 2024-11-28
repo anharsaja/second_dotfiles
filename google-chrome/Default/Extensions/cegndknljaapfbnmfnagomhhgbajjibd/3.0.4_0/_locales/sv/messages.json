@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donation"
+   },
+   "extDescription": {
+      "message": "Lägger till ”Visa bakgrundsbild” i snabbmenyn."
+   },
+   "extName": {
+      "message": "Visa bakgrundsbild"
+   },
+   "failure": {
+      "message": "Kan inte visa bakgrundsbilder"
+   },
+   "reload": {
+      "message": "Ladda om sidor efter installation eller uppdatering av tillägget."
+   },
+   "report": {
+      "message": "Rapportera ett problem?"
+   },
+   "review": {
+      "message": "Recension"
+   },
+   "security": {
+      "message": "Tillägget får inte köras på specialsidor."
+   }
+}

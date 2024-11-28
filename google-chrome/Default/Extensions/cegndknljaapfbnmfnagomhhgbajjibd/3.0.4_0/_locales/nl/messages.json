@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donatie"
+   },
+   "extDescription": {
+      "message": "Voegt „Achtergrondafbeelding bekijken” toe aan het contextmenu."
+   },
+   "extName": {
+      "message": "Achtergrondafbeelding bekijken"
+   },
+   "failure": {
+      "message": "Kan achtergrondafbeeldingen niet bekijken"
+   },
+   "reload": {
+      "message": "Laad pagina's opnieuw nadat u de extensie hebt geïnstalleerd of bijgewerkt."
+   },
+   "report": {
+      "message": "Een probleem melden?"
+   },
+   "review": {
+      "message": "Beoordeling"
+   },
+   "security": {
+      "message": "De extensie mag niet op speciale pagina's worden uitgevoerd."
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Doação"
+   },
+   "extDescription": {
+      "message": "Adiciona «Ver imagem de fundo» ao menu de contexto."
+   },
+   "extName": {
+      "message": "Ver imagem de fundo"
+   },
+   "failure": {
+      "message": "Não é possível visualizar imagens de fundo"
+   },
+   "reload": {
+      "message": "Recarregar páginas depois de instalar ou atualizar a extensão."
+   },
+   "report": {
+      "message": "Informar um problema?"
+   },
+   "review": {
+      "message": "Análise"
+   },
+   "security": {
+      "message": "A extensão não pode ser executada em páginas especiais."
+   }
+}

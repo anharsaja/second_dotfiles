@@ -1,0 +1,10 @@
+{
+   "description": {
+      "description": "Extension's description",
+      "message": "Blockify, Spotify reklamlarını engelleyen ve kaldıran bir Spotify reklam engelleyicidir; Spotify-adblock teknolojisini kullanır."
+   },
+   "name": {
+      "description": "Extension's name",
+      "message": "Spotify Reklam Engelleyici - Blockify"
+   }
+}

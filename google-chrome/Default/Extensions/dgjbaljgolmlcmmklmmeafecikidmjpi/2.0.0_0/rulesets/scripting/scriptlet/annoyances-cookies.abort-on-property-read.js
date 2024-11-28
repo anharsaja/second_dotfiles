@@ -1,0 +1,217 @@
+"use strict";
+
+(() => {
+    const e = function() {
+        const e = {}, t = [ [ "__cmpGdprAppliesGlobally" ], [ "cookieconsent.Popup" ], [ "cookieman" ] ], o = new Map([ [ "al.com", 0 ], [ "allkpop.com", 0 ], [ "calendarpedia.co.uk", 0 ], [ "ccn.com", 0 ], [ "cinemablend.com", 0 ], [ "cleveland.com", 0 ], [ "comicsands.com", 0 ], [ "duffelblog.com", 0 ], [ "foxvalleyfoodie.com", 0 ], [ "gamepur.com", 0 ], [ "gamerevolution.com", 0 ], [ "interestingengineering.com", 0 ], [ "keengamer.com", 0 ], [ "listenonrepeat.com", 0 ], [ "mandatory.com", 0 ], [ "merriam-webster.com", 0 ], [ "mlive.com", 0 ], [ "musicfeeds.com.au", 0 ], [ "newatlas.com", 0 ], [ "pgatour.com", 0 ], [ "playstationlifestyle.net", 0 ], [ "readlightnovel.org", 0 ], [ "secondnexus.com", 0 ], [ "sevenforums.com", 0 ], [ "sport24.co.za", 0 ], [ "sportsnaut.com", 0 ], [ "superherohype.com", 0 ], [ "thefashionspot.com", 0 ], [ "theodysseyonline.com", 0 ], [ "toledoblade.com", 0 ], [ "totalbeauty.com", 0 ], [ "westernjournal.com", 0 ], [ "windows101tricks.com", 0 ], [ "claritin.ca", 1 ], [ "podleze-piekielko.pl", 2 ] ]), r = new Map([]), n = new Map([]);
+        function c(e = "") {
+            if ("string" != typeof e) return;
+            if ("" === e) return;
+            const t = s(), o = t.makeLogPrefix("abort-on-property-read", e), r = function() {
+                const e = s(), t = String.fromCharCode(Date.now() % 26 + 97) + e.Math_floor(982451653 * e.Math_random() + 982451653).toString(36), o = self.onerror;
+                return self.onerror = function(e, ...r) {
+                    return !("string" != typeof e || !e.includes(t)) || (o instanceof Function ? o.call(this, e, ...r) : void 0);
+                }.bind(), t;
+            }(), n = function() {
+                throw t.uboLog(o, "Aborted"), new ReferenceError(r);
+            }, c = function(e, t) {
+                const o = t.indexOf(".");
+                if (-1 === o) {
+                    const o = Object.getOwnPropertyDescriptor(e, t);
+                    return void (o && o.get === n || Object.defineProperty(e, t, {
+                        get: n,
+                        set: function() {}
+                    }));
+                }
+                const r = t.slice(0, o);
+                let s = e[r];
+                if (t = t.slice(o + 1), s) return void c(s, t);
+                const i = Object.getOwnPropertyDescriptor(e, r);
+                i && void 0 !== i.set || Object.defineProperty(e, r, {
+                    get: function() {
+                        return s;
+                    },
+                    set: function(e) {
+                        s = e, e instanceof Object && c(e, t);
+                    }
+                });
+            }, i = window;
+            c(i, e);
+        }
+        function s() {
+            if (e.safeSelf) return e.safeSelf;
+            const t = globalThis, o = {
+                Array_from: Array.from,
+                Error: t.Error,
+                Function_toStringFn: t.Function.prototype.toString,
+                Function_toString: e => o.Function_toStringFn.call(e),
+                Math_floor: Math.floor,
+                Math_max: Math.max,
+                Math_min: Math.min,
+                Math_random: Math.random,
+                Object: Object,
+                Object_defineProperty: Object.defineProperty.bind(Object),
+                Object_fromEntries: Object.fromEntries.bind(Object),
+                Object_getOwnPropertyDescriptor: Object.getOwnPropertyDescriptor.bind(Object),
+                RegExp: t.RegExp,
+                RegExp_test: t.RegExp.prototype.test,
+                RegExp_exec: t.RegExp.prototype.exec,
+                Request_clone: t.Request.prototype.clone,
+                XMLHttpRequest: t.XMLHttpRequest,
+                addEventListener: t.EventTarget.prototype.addEventListener,
+                removeEventListener: t.EventTarget.prototype.removeEventListener,
+                fetch: t.fetch,
+                JSON: t.JSON,
+                JSON_parseFn: t.JSON.parse,
+                JSON_stringifyFn: t.JSON.stringify,
+                JSON_parse: (...e) => o.JSON_parseFn.call(o.JSON, ...e),
+                JSON_stringify: (...e) => o.JSON_stringifyFn.call(o.JSON, ...e),
+                log: void 0,
+                logLevel: 0,
+                makeLogPrefix(...e) {
+                    return this.sendToLogger && `[${e.join(" ⁝ ")}]` || "";
+                },
+                uboLog(...e) {
+                    if (void 0 !== this.sendToLogger && void 0 !== e && "" !== e[0]) return this.sendToLogger("info", ...e);
+                },
+                uboErr(...e) {
+                    if (void 0 !== this.sendToLogger && void 0 !== e && "" !== e[0]) return this.sendToLogger("error", ...e);
+                },
+                escapeRegexChars: e => e.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
+                initPattern(e, t = {}) {
+                    if ("" === e) return {
+                        matchAll: !0
+                    };
+                    const o = !0 !== t.canNegate || !1 === e.startsWith("!");
+                    !1 === o && (e = e.slice(1));
+                    const r = /^\/(.+)\/([gimsu]*)$/.exec(e);
+                    return null !== r ? {
+                        re: new this.RegExp(r[1], r[2] || t.flags),
+                        expect: o
+                    } : void 0 !== t.flags ? {
+                        re: new this.RegExp(this.escapeRegexChars(e), t.flags),
+                        expect: o
+                    } : {
+                        pattern: e,
+                        expect: o
+                    };
+                },
+                testPattern(e, t) {
+                    return !!e.matchAll || (e.re ? this.RegExp_test.call(e.re, t) === e.expect : t.includes(e.pattern) === e.expect);
+                },
+                patternToRegex(e, t, o = !1) {
+                    if ("" === e) return /^/;
+                    const r = /^\/(.+)\/([gimsu]*)$/.exec(e);
+                    if (null === r) {
+                        const r = this.escapeRegexChars(e);
+                        return new RegExp(o ? `^${r}$` : r, t);
+                    }
+                    try {
+                        return new RegExp(r[1], r[2] || void 0);
+                    } catch (e) {}
+                    return /^/;
+                },
+                getExtraArgs(e, t = 0) {
+                    const o = e.slice(t).reduce(((e, t, o, r) => {
+                        if (0 == (1 & o)) {
+                            const t = r[o + 1], n = /^\d+$/.test(t) ? parseInt(t, 10) : t;
+                            e.push([ r[o], n ]);
+                        }
+                        return e;
+                    }), []);
+                    return this.Object_fromEntries(o);
+                },
+                onIdle: (e, o) => t.requestIdleCallback ? t.requestIdleCallback(e, o) : t.requestAnimationFrame(e)
+            };
+            if (e.safeSelf = o, void 0 === e.bcSecret) return o;
+            const r = new t.BroadcastChannel(e.bcSecret);
+            let n = [];
+            return o.logLevel = e.logLevel || 1, o.sendToLogger = (e, ...t) => {
+                if (0 === t.length) return;
+                const o = `[${document.location.hostname || document.location.href}]${t.join(" ")}`;
+                if (void 0 === n) return r.postMessage({
+                    what: "messageToLogger",
+                    type: e,
+                    text: o
+                });
+                n.push({
+                    type: e,
+                    text: o
+                });
+            }, r.onmessage = e => {
+                switch (e.data) {
+                  case "iamready!":
+                    if (void 0 === n) break;
+                    n.forEach((({type: e, text: t}) => r.postMessage({
+                        what: "messageToLogger",
+                        type: e,
+                        text: t
+                    }))), n = void 0;
+                    break;
+
+                  case "setScriptletLogLevelToOne":
+                    o.logLevel = 1;
+                    break;
+
+                  case "setScriptletLogLevelToTwo":
+                    o.logLevel = 2;
+                }
+            }, r.postMessage("areyouready?"), o;
+        }
+        const i = [];
+        try {
+            i.push(...document.location.hostname.split("."));
+        } catch (e) {}
+        const a = i.length;
+        if (0 === a) return;
+        const l = new Set, p = [];
+        if (0 !== n.size) {
+            for (let e = 0; e < a; e++) {
+                const t = i.slice(e).join("."), o = n.get(t);
+                o && p.push(...o);
+            }
+            n.clear();
+        }
+        if (0 !== o.size) {
+            const e = e => {
+                let t = o.get(e);
+                if (void 0 !== t) {
+                    "number" == typeof t && (t = [ t ]);
+                    for (const e of t) p.includes(e) || l.add(e);
+                }
+            };
+            for (let t = 0; t < a; t++) e(i.slice(t).join("."));
+            e("*"), o.clear();
+        }
+        if (0 !== r.size) {
+            const e = a - 1;
+            for (let t = 0; t < e; t++) for (let o = e; o > t; o--) {
+                const e = i.slice(t, o).join(".");
+                let n = r.get(e);
+                if (void 0 !== n) {
+                    "number" == typeof n && (n = [ n ]);
+                    for (const e of n) p.includes(e) || l.add(e);
+                }
+            }
+            r.clear();
+        }
+        for (const e of l) try {
+            c(...t[e]);
+        } catch (e) {}
+        t.length = 0;
+    };
+    if ("object" != typeof wrappedJSObject) return e();
+    {
+        const t = self.wrappedJSObject;
+        let o, r;
+        try {
+            t.uBOL_abortOnPropertyRead = cloneInto([ [ "(", e.toString(), ")();" ], {
+                type: "text/javascript; charset=utf-8"
+            } ], self);
+            const n = new t.Blob(...t.uBOL_abortOnPropertyRead);
+            r = t.URL.createObjectURL(n);
+            const c = t.document;
+            o = c.createElement("script"), o.async = !1, o.src = r, (c.head || c.documentElement || c).append(o);
+        } catch (e) {}
+        r && (o && o.remove(), t.URL.revokeObjectURL(r)), delete t.uBOL_abortOnPropertyRead;
+    }
+})();

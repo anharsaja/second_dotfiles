@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Quyên góp"
+   },
+   "extDescription": {
+      "message": "Thêm “Xem hình nền” vào menu ngữ cảnh."
+   },
+   "extName": {
+      "message": "Xem ảnh nền"
+   },
+   "failure": {
+      "message": "Không thể xem hình nền"
+   },
+   "reload": {
+      "message": "Tải lại trang sau khi cài đặt hoặc cập nhật tiện ích mở rộng."
+   },
+   "report": {
+      "message": "Báo cáo một vấn đề?"
+   },
+   "review": {
+      "message": "Ôn tập"
+   },
+   "security": {
+      "message": "Tiện ích mở rộng không được phép chạy trên các trang đặc biệt."
+   }
+}

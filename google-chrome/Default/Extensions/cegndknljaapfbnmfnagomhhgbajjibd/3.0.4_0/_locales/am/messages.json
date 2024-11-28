@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "ልገሳ"
+   },
+   "extDescription": {
+      "message": "ወደ አውድ ምናሌው «የበስተጀርባ ምስል ይመልከቱ» ያክላል።"
+   },
+   "extName": {
+      "message": "የበስተጀርባ ምስል ይመልከቱ"
+   },
+   "failure": {
+      "message": "የበስተጀርባ ምስሎችን ማየት አልተቻለም"
+   },
+   "reload": {
+      "message": "ቅጥያውን ከጫኑ ወይም ካዘመኑ በኋላ ገጾችን እንደገና ይጫኑ።"
+   },
+   "report": {
+      "message": "ችግር ሪፖርት ያድርጉ?"
+   },
+   "review": {
+      "message": "ግምገማ"
+   },
+   "security": {
+      "message": "ቅጥያው በልዩ ገጾች ላይ እንዲሠራ አይፈቀድለትም።"
+   }
+}

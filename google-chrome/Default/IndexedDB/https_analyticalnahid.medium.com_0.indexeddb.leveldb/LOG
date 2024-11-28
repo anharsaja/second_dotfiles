@@ -1,0 +1,16 @@
+2024/11/23-19:13:59.484 66ce Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_analyticalnahid.medium.com_0.indexeddb.leveldb since it was missing.
+2024/11/23-19:13:59.498 66ce Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_analyticalnahid.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-19:13:59.896 66da Level-0 table #5: started
+2024/11/23-19:13:59.900 66da Level-0 table #5: 6562 bytes OK
+2024/11/23-19:13:59.903 66da Delete type=0 #3
+2024/11/23-19:13:59.903 66cf Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-19:14:01.689 66d0 Level-0 table #7: started
+2024/11/23-19:14:01.691 66d0 Level-0 table #7: 4400 bytes OK
+2024/11/23-19:14:01.694 66d0 Delete type=0 #4
+2024/11/23-19:14:01.695 66cf Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-19:14:25.182 66ce Compacting 1@1 + 1@2 files
+2024/11/23-19:14:25.191 66ce Generated table #8@1: 100 keys, 5309 bytes
+2024/11/23-19:14:25.192 66ce Compacted 1@1 + 1@2 files => 5309 bytes
+2024/11/23-19:14:25.198 66ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-19:14:25.198 66ce Delete type=2 #7
+2024/11/23-19:14:25.198 66ce Delete type=2 #5

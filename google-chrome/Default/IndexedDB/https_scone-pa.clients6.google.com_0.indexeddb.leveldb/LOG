@@ -1,0 +1,7 @@
+2024/11/26-22:11:09.825 11ae Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_scone-pa.clients6.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/26-22:11:09.825 11ae Recovering log #4
+2024/11/26-22:11:09.825 11ae Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_scone-pa.clients6.google.com_0.indexeddb.leveldb/000004.log 
+2024/11/26-22:11:09.834 11af Level-0 table #8: started
+2024/11/26-22:11:09.837 11af Level-0 table #8: 1385 bytes OK
+2024/11/26-22:11:09.839 11af Delete type=0 #4
+2024/11/26-22:11:09.840 11ae Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

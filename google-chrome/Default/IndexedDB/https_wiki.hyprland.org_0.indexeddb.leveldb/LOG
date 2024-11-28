@@ -1,0 +1,25 @@
+2024/11/28-15:32:40.511 75f Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_wiki.hyprland.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/28-15:32:40.511 75f Recovering log #14
+2024/11/28-15:32:40.511 75f Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_wiki.hyprland.org_0.indexeddb.leveldb/000014.log 
+2024/11/28-15:32:40.511 75f Delete type=2 #13
+2024/11/28-15:32:40.556 761 Level-0 table #19: started
+2024/11/28-15:32:40.557 761 Level-0 table #19: 953 bytes OK
+2024/11/28-15:32:40.560 761 Delete type=0 #14
+2024/11/28-15:32:40.560 760 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 264 : 1
+2024/11/28-15:32:40.560 760 Compacting 1@0 + 1@1 files
+2024/11/28-15:32:40.561 760 Generated table #20@0: 77 keys, 1569 bytes
+2024/11/28-15:32:40.561 760 Compacted 1@0 + 1@1 files => 1569 bytes
+2024/11/28-15:32:40.563 760 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-15:32:40.563 760 Delete type=2 #19
+2024/11/28-15:32:40.563 760 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 264 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/28-15:32:53.774 761 Level-0 table #22: started
+2024/11/28-15:32:53.775 761 Level-0 table #22: 946 bytes OK
+2024/11/28-15:32:53.777 761 Delete type=0 #18
+2024/11/28-15:32:53.777 761 Delete type=2 #16
+2024/11/28-15:32:53.777 75f Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 297 : 1
+2024/11/28-15:32:53.777 75f Compacting 1@0 + 1@1 files
+2024/11/28-15:32:53.779 75f Generated table #23@0: 85 keys, 1676 bytes
+2024/11/28-15:32:53.779 75f Compacted 1@0 + 1@1 files => 1676 bytes
+2024/11/28-15:32:53.780 75f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-15:32:53.781 75f Delete type=2 #22
+2024/11/28-15:32:53.781 75f Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 297 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

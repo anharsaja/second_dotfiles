@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Annetus"
+   },
+   "extDescription": {
+      "message": "Lisab kontekstmenüüsse „Vaata taustapilti“."
+   },
+   "extName": {
+      "message": "Vaata taustapilti"
+   },
+   "failure": {
+      "message": "Taustapilti ei saa kuvada"
+   },
+   "reload": {
+      "message": "Pärast laienduse paigaldamist ja uuendamist laadige leht uuesti."
+   },
+   "report": {
+      "message": "Kas teatada probleemist?"
+   },
+   "review": {
+      "message": "Ülevaade"
+   },
+   "security": {
+      "message": "Laiendusi ei ole lubatud erilehtedel töötada."
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Ziedojums"
+   },
+   "extDescription": {
+      "message": "Konteksta izvēlnei pievieno “Skatīt fona attēlu”."
+   },
+   "extName": {
+      "message": "Skatīt fona attēlu"
+   },
+   "failure": {
+      "message": "Nevar apskatīt fona attēlus"
+   },
+   "reload": {
+      "message": "Pēc paplašinājuma instalēšanas vai atjaunināšanas atkārtoti ielādējiet lapas."
+   },
+   "report": {
+      "message": "Ziņot par problēmu?"
+   },
+   "review": {
+      "message": "Pārskats"
+   },
+   "security": {
+      "message": "Paplašinājumam nav atļauts darboties īpašās lapās."
+   }
+}

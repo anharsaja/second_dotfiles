@@ -1,0 +1,13 @@
+2024/11/24-01:06:32.282 5ed Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.lazyvim.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/24-01:06:32.282 5ed Recovering log #6
+2024/11/24-01:06:32.285 5ed Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.lazyvim.org_0.indexeddb.leveldb/000006.log 
+2024/11/24-01:06:32.303 5e3 Level-0 table #10: started
+2024/11/24-01:06:32.305 5e3 Level-0 table #10: 962 bytes OK
+2024/11/24-01:06:32.309 5e3 Delete type=0 #6
+2024/11/24-01:06:32.310 5e1 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 165 : 1
+2024/11/24-01:06:32.310 5e1 Compacting 1@0 + 1@1 files
+2024/11/24-01:06:32.314 5e1 Generated table #11@0: 53 keys, 1369 bytes
+2024/11/24-01:06:32.314 5e1 Compacted 1@0 + 1@1 files => 1369 bytes
+2024/11/24-01:06:32.315 5e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/24-01:06:32.316 5e1 Delete type=2 #10
+2024/11/24-01:06:32.316 5e1 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 165 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

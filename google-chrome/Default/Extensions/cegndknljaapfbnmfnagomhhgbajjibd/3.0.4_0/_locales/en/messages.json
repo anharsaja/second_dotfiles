@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donation"
+   },
+   "extDescription": {
+      "message": "Adds “View Background Image” to the context menu."
+   },
+   "extName": {
+      "message": "View Background Image"
+   },
+   "failure": {
+      "message": "Cannot view background images"
+   },
+   "reload": {
+      "message": "Reload pages after installing or updating the extension."
+   },
+   "report": {
+      "message": "Report a problem?"
+   },
+   "review": {
+      "message": "Review"
+   },
+   "security": {
+      "message": "The extension is not allowed to run on special pages."
+   }
+}

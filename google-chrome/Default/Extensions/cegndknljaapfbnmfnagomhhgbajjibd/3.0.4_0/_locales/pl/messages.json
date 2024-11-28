@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Darowizna"
+   },
+   "extDescription": {
+      "message": "Dodaje „Wyświetl obraz tła” do menu kontekstowego."
+   },
+   "extName": {
+      "message": "Wyświetl obraz tła"
+   },
+   "failure": {
+      "message": "Nie można wyświetlić obrazów tła"
+   },
+   "reload": {
+      "message": "Załaduj ponownie strony po zainstalowaniu lub aktualizacji rozszerzenia."
+   },
+   "report": {
+      "message": "Chcesz zgłosić błąd?"
+   },
+   "review": {
+      "message": "Recenzja"
+   },
+   "security": {
+      "message": "Rozszerzenie nie może działać na specjalnych stronach."
+   }
+}

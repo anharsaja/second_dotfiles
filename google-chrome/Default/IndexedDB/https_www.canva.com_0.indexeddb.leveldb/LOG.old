@@ -1,0 +1,80 @@
+2024/11/27-01:05:18.251 11ad Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2024/11/27-01:05:18.255 11ad Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/27-01:05:18.579 11ba Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:05:28.549 11af Level-0 table #5: started
+2024/11/27-01:05:28.551 11af Level-0 table #5: 28634 bytes OK
+2024/11/27-01:05:28.553 11af Delete type=0 #3
+2024/11/27-01:05:28.553 11ad Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:05:32.141 11b9 Level-0 table #7: started
+2024/11/27-01:05:32.142 11b9 Level-0 table #7: 28955 bytes OK
+2024/11/27-01:05:32.144 11b9 Delete type=0 #4
+2024/11/27-01:05:32.144 11ad Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:05:51.150 11ae Compacting 1@1 + 1@2 files
+2024/11/27-01:05:51.152 11ae Generated table #8@1: 227 keys, 12445 bytes
+2024/11/27-01:05:51.152 11ae Compacted 1@1 + 1@2 files => 12445 bytes
+2024/11/27-01:05:51.154 11ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:05:51.154 11ae Delete type=2 #7
+2024/11/27-01:05:51.154 11ae Delete type=2 #5
+2024/11/27-01:11:38.746 11af Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:11:40.334 11af Level-0 table #10: started
+2024/11/27-01:11:40.338 11af Level-0 table #10: 166436 bytes OK
+2024/11/27-01:11:40.343 11af Delete type=0 #6
+2024/11/27-01:11:40.344 11ad Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:11:47.639 11ae Compacting 1@1 + 1@2 files
+2024/11/27-01:11:47.651 11ae Generated table #11@1: 268 keys, 46583 bytes
+2024/11/27-01:11:47.651 11ae Compacted 1@1 + 1@2 files => 46583 bytes
+2024/11/27-01:11:47.653 11ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:11:47.653 11ae Delete type=2 #10
+2024/11/27-01:11:47.653 11ae Delete type=2 #8
+2024/11/27-01:14:35.237 11af Level-0 table #13: started
+2024/11/27-01:14:35.256 11af Level-0 table #13: 454886 bytes OK
+2024/11/27-01:14:35.258 11af Delete type=0 #9
+2024/11/27-01:14:35.259 11ad Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:14:35.581 11af Level-0 table #15: started
+2024/11/27-01:14:35.582 11af Level-0 table #15: 12200 bytes OK
+2024/11/27-01:14:35.584 11af Delete type=0 #12
+2024/11/27-01:14:35.584 11ad Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 11103 : 1
+2024/11/27-01:14:35.584 11ad Compacting 1@0 + 1@1 files
+2024/11/27-01:14:35.592 11ad Generated table #16@0: 2278 keys, 42507 bytes
+2024/11/27-01:14:35.592 11ad Compacted 1@0 + 1@1 files => 42507 bytes
+2024/11/27-01:14:35.595 11ad compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/27-01:14:35.596 11ad Delete type=2 #15
+2024/11/27-01:14:35.596 11ad Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 11103 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:14:42.036 11ad Compacting 1@1 + 1@2 files
+2024/11/27-01:14:42.045 11ad Generated table #17@1: 267 keys, 44096 bytes
+2024/11/27-01:14:42.046 11ad Compacted 1@1 + 1@2 files => 44096 bytes
+2024/11/27-01:14:42.049 11ad compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:14:42.049 11ad Delete type=2 #11
+2024/11/27-01:14:42.050 11ad Delete type=2 #16
+2024/11/27-01:14:42.050 11ad Delete type=2 #13
+2024/11/27-01:15:04.443 11af Level-0 table #19: started
+2024/11/27-01:15:04.453 11af Level-0 table #19: 90997 bytes OK
+2024/11/27-01:15:04.455 11af Delete type=0 #14
+2024/11/27-01:15:04.456 11ae Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:15:05.343 11ae Compacting 1@1 + 1@2 files
+2024/11/27-01:15:05.345 11ae Generated table #20@1: 266 keys, 39169 bytes
+2024/11/27-01:15:05.345 11ae Compacted 1@1 + 1@2 files => 39169 bytes
+2024/11/27-01:15:05.346 11ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:15:05.347 11ae Delete type=2 #19
+2024/11/27-01:15:05.347 11ae Delete type=2 #17
+2024/11/27-01:15:07.050 11ad Level-0 table #22: started
+2024/11/27-01:15:07.052 11ad Level-0 table #22: 58471 bytes OK
+2024/11/27-01:15:07.053 11ad Delete type=0 #18
+2024/11/27-01:15:07.054 11ad Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:15:10.431 11ae Compacting 1@1 + 1@2 files
+2024/11/27-01:15:10.442 11ae Generated table #23@1: 287 keys, 58150 bytes
+2024/11/27-01:15:10.442 11ae Compacted 1@1 + 1@2 files => 58150 bytes
+2024/11/27-01:15:10.444 11ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:15:10.445 11ae Delete type=2 #20
+2024/11/27-01:15:10.445 11ae Delete type=2 #22
+2024/11/27-01:19:43.632 11b9 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:19:45.180 11b9 Level-0 table #25: started
+2024/11/27-01:19:45.190 11b9 Level-0 table #25: 686850 bytes OK
+2024/11/27-01:19:45.193 11b9 Delete type=0 #21
+2024/11/27-01:19:45.194 11ad Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/27-01:19:50.780 11ad Compacting 1@1 + 1@2 files
+2024/11/27-01:19:50.791 11ad Generated table #26@1: 270 keys, 48340 bytes
+2024/11/27-01:19:50.791 11ad Compacted 1@1 + 1@2 files => 48340 bytes
+2024/11/27-01:19:50.793 11ad compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-01:19:50.793 11ad Delete type=2 #23
+2024/11/27-01:19:50.793 11ad Delete type=2 #25

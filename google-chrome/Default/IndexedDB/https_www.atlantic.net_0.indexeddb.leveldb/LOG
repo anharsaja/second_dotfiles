@@ -1,0 +1,20 @@
+2024/11/24-01:22:43.929 780 Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.atlantic.net_0.indexeddb.leveldb since it was missing.
+2024/11/24-01:22:43.933 780 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.atlantic.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/24-01:22:43.940 781 Level-0 table #5: started
+2024/11/24-01:22:43.943 781 Level-0 table #5: 1284 bytes OK
+2024/11/24-01:22:43.945 781 Delete type=0 #3
+2024/11/24-01:22:43.945 780 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/24-01:22:49.842 781 Level-0 table #7: started
+2024/11/24-01:22:49.843 781 Level-0 table #7: 1859 bytes OK
+2024/11/24-01:22:49.845 781 Delete type=0 #4
+2024/11/24-01:22:49.846 77f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/24-01:23:45.857 78e Level-0 table #9: started
+2024/11/24-01:23:45.859 78e Level-0 table #9: 934 bytes OK
+2024/11/24-01:23:45.861 78e Delete type=0 #6
+2024/11/24-01:23:45.862 780 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 165 : 1
+2024/11/24-01:23:45.862 780 Compacting 1@0 + 1@1 files
+2024/11/24-01:23:45.864 780 Generated table #10@0: 56 keys, 1356 bytes
+2024/11/24-01:23:45.864 780 Compacted 1@0 + 1@1 files => 1356 bytes
+2024/11/24-01:23:45.866 780 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/24-01:23:45.866 780 Delete type=2 #9
+2024/11/24-01:23:45.866 77f Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 165 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

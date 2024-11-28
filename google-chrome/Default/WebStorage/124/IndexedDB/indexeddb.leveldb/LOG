@@ -1,0 +1,14 @@
+2024/11/26-23:52:39.589 11ae Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/WebStorage/124/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/26-23:52:39.589 11ae Recovering log #10
+2024/11/26-23:52:39.589 11ae Reusing old log /home/anharsaja/.config/google-chrome/Default/WebStorage/124/IndexedDB/indexeddb.leveldb/000010.log 
+2024/11/26-23:52:39.589 11ae Delete type=2 #8
+2024/11/26-23:52:39.624 11af Level-0 table #15: started
+2024/11/26-23:52:39.625 11af Level-0 table #15: 940 bytes OK
+2024/11/26-23:52:39.626 11af Delete type=0 #10
+2024/11/26-23:52:39.627 11ae Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 198 : 1
+2024/11/26-23:52:39.627 11ae Compacting 1@0 + 1@1 files
+2024/11/26-23:52:39.628 11ae Generated table #16@0: 46 keys, 1265 bytes
+2024/11/26-23:52:39.628 11ae Compacted 1@0 + 1@1 files => 1265 bytes
+2024/11/26-23:52:39.632 11ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/26-23:52:39.632 11ae Delete type=2 #15
+2024/11/26-23:52:39.632 11ae Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 198 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

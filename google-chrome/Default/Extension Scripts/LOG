@@ -1,0 +1,33 @@
+2024/11/28-16:55:54.156 3f3 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Extension Scripts/MANIFEST-000001
+2024/11/28-16:55:54.156 3f3 Recovering log #255
+2024/11/28-16:55:54.161 3f3 Reusing old log /home/anharsaja/.config/google-chrome/Default/Extension Scripts/000255.log 
+2024/11/28-16:55:55.038 3f3 Level-0 table #260: started
+2024/11/28-16:55:55.046 3f3 Level-0 table #260: 1075825 bytes OK
+2024/11/28-16:55:55.049 3f3 Delete type=0 #255
+2024/11/28-17:20:57.454 3f3 Level-0 table #262: started
+2024/11/28-17:20:57.476 3f3 Level-0 table #262: 1075825 bytes OK
+2024/11/28-17:20:57.488 3f3 Delete type=0 #259
+2024/11/28-18:17:02.300 3f3 Level-0 table #264: started
+2024/11/28-18:17:02.324 3f3 Level-0 table #264: 1075826 bytes OK
+2024/11/28-18:17:02.327 3f3 Delete type=0 #261
+2024/11/28-18:32:28.142 3f3 Level-0 table #266: started
+2024/11/28-18:32:28.170 3f3 Level-0 table #266: 1075825 bytes OK
+2024/11/28-18:32:28.173 3f3 Delete type=0 #263
+2024/11/28-18:32:28.175 400 Compacting 4@0 + 1@1 files
+2024/11/28-18:32:28.198 400 Generated table #267@0: 2 keys, 35365 bytes
+2024/11/28-18:32:28.198 400 Compacted 4@0 + 1@1 files => 35365 bytes
+2024/11/28-18:32:28.200 400 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-18:32:28.201 400 Delete type=2 #257
+2024/11/28-18:32:28.201 400 Delete type=2 #264
+2024/11/28-18:32:28.201 400 Delete type=2 #266
+2024/11/28-18:32:28.201 400 Delete type=2 #260
+2024/11/28-18:32:28.201 400 Delete type=2 #262
+2024/11/28-18:54:53.714 3f3 Level-0 table #269: started
+2024/11/28-18:54:53.739 3f3 Level-0 table #269: 1075826 bytes OK
+2024/11/28-18:54:53.745 3f3 Delete type=0 #265
+2024/11/28-19:15:16.008 3f3 Level-0 table #271: started
+2024/11/28-19:15:16.033 3f3 Level-0 table #271: 1075824 bytes OK
+2024/11/28-19:15:16.045 3f3 Delete type=0 #268
+2024/11/28-19:22:58.348 3f3 Level-0 table #273: started
+2024/11/28-19:22:58.373 3f3 Level-0 table #273: 1075824 bytes OK
+2024/11/28-19:22:58.378 3f3 Delete type=0 #270

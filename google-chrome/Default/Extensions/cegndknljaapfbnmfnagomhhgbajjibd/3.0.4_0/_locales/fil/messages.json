@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donasyon"
+   },
+   "extDescription": {
+      "message": "Nagdaragdag ng “Tingnan ang Larawan sa Background” sa menu ng konteksto."
+   },
+   "extName": {
+      "message": "Tingnan ang Larawan sa Background"
+   },
+   "failure": {
+      "message": "Hindi matingnan ang mga larawan sa background"
+   },
+   "reload": {
+      "message": "I-reload ang mga page pagkatapos i-install o i-update ang extension."
+   },
+   "report": {
+      "message": "Mag-ulat ng isang isyu?"
+   },
+   "review": {
+      "message": "Pagsusuri"
+   },
+   "security": {
+      "message": "Ang extension ay hindi pinapayagang tumakbo sa mga espesyal na pahina."
+   }
+}

@@ -1,0 +1,12 @@
+2024/11/28-16:55:54.876 3f2 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2024/11/28-16:55:54.876 3f2 Recovering log #45
+2024/11/28-16:55:54.878 3f2 Reusing old log /home/anharsaja/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000045.log 
+2024/11/28-18:38:23.186 3f3 Level-0 table #51: started
+2024/11/28-18:38:23.259 3f3 Level-0 table #51: 1255300 bytes OK
+2024/11/28-18:38:23.267 3f3 Delete type=0 #45
+2024/11/28-19:18:15.420 3f4 Compacting 1@1 + 1@2 files
+2024/11/28-19:18:15.461 3f4 Generated table #52@1: 34 keys, 314677 bytes
+2024/11/28-19:18:15.461 3f4 Compacted 1@1 + 1@2 files => 314677 bytes
+2024/11/28-19:18:15.463 3f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/28-19:18:15.463 3f4 Delete type=2 #48
+2024/11/28-19:18:15.464 3f4 Delete type=2 #51

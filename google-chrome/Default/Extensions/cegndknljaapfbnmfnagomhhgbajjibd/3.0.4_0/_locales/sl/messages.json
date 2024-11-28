@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Donacija"
+   },
+   "extDescription": {
+      "message": "V kontekstni meni doda „Ogled slike ozadja“."
+   },
+   "extName": {
+      "message": "Ogled slike ozadja"
+   },
+   "failure": {
+      "message": "Ni mogoče prikazati slike ozadja"
+   },
+   "reload": {
+      "message": "Ponovno naložite strani po namestitvi ali posodobitvi razširitve."
+   },
+   "report": {
+      "message": "Prijavite težavo?"
+   },
+   "review": {
+      "message": "Pregled"
+   },
+   "security": {
+      "message": "Razširitve ni dovoljeno izvajati na posebnih straneh."
+   }
+}

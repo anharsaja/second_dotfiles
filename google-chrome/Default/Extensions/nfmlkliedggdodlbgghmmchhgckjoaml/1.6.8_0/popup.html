@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="popup.css">
+    <title>Blockify Ad Blocker</title>
+     <!-- array js -->
+    <script src="popup.js" async></script>
+</head>
+<body>
+    <style id="noremove">
+        body > *
+        {
+            display: none !important;
+        }
+    </style>
+    <div id="header">
+        <div><img src="frame/icon.svg">Blockify</div>
+        <div id="version"></div>
+    </div>
+    <div id="mainE">
+        <div id="mainT">Block ads on:</div>
+        <div class="toggle-container">
+            <div class="options six">All Websites</div>
+            <input type="checkbox" id="all_sites" name="all_sites" class="toggle-input">
+            <label for="all_sites" class="toggle-label">
+                <span class="toggle-fill"></span>
+                <span class="toggle-icon"></span>
+            </label>
+        </div>
+        <div class="toggle-container" id="website_cont">
+            <div class="options" id="website"></div>
+            <input type="checkbox" id="specific_site" name="specific_site" class="toggle-input">
+            <label for="specific_site" class="toggle-label">
+                <span class="toggle-fill"></span>
+                <span class="toggle-icon"></span>
+            </label>
+        </div>
+        <div class="toggle-container" id="spotify_cont">
+            <a class="options" href="https://open.spotify.com/" target="_blank">open.spotify.com</a>
+            <input type="checkbox" id="spotify" name="spotify" class="toggle-input">
+            <label for="spotify" class="toggle-label">
+                <span class="toggle-fill"></span>
+                <span class="toggle-icon"></span>
+            </label>
+        </div>  
+    </div>
+    <div id="temp"></div>
+    <!--
+    <script src="permission_check.js" async defer></script>
+    -->
+</body>
+</html>

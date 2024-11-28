@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "捐款"
+   },
+   "extDescription": {
+      "message": "將「顯示背景圖像」新增至上下文功能表。"
+   },
+   "extName": {
+      "message": "顯示背景圖像"
+   },
+   "failure": {
+      "message": "無法顯示背景圖像"
+   },
+   "reload": {
+      "message": "請在安裝或更新擴充功能後重新載入頁面。"
+   },
+   "report": {
+      "message": "報告問題？"
+   },
+   "review": {
+      "message": "評價"
+   },
+   "security": {
+      "message": "不允許在特殊頁面上運行擴充功能。"
+   }
+}

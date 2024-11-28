@@ -1,0 +1,10 @@
+2024/11/23-22:42:35.287 b24 Creating DB /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.lazyvim.org_0.indexeddb.leveldb since it was missing.
+2024/11/23-22:42:35.291 b24 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_www.lazyvim.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-22:42:35.300 b25 Level-0 table #5: started
+2024/11/23-22:42:35.302 b25 Level-0 table #5: 1316 bytes OK
+2024/11/23-22:42:35.304 b25 Delete type=0 #3
+2024/11/23-22:42:35.304 b24 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-22:47:34.098 b30 Level-0 table #7: started
+2024/11/23-22:47:34.105 b30 Level-0 table #7: 1853 bytes OK
+2024/11/23-22:47:34.108 b30 Delete type=0 #4
+2024/11/23-22:47:34.108 b23 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

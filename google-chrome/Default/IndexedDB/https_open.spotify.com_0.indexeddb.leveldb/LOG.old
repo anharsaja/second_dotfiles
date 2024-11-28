@@ -1,0 +1,11 @@
+2024/11/23-19:13:04.534 66ce Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-19:13:04.534 66ce Recovering log #66
+2024/11/23-19:13:04.545 66ce Reusing old log /home/anharsaja/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000066.log 
+2024/11/23-19:13:04.557 66cf Level-0 table #72: started
+2024/11/23-19:13:04.569 66cf Level-0 table #72: 943013 bytes OK
+2024/11/23-19:13:04.572 66cf Delete type=0 #66
+2024/11/23-19:13:04.572 66cf Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-19:13:05.366 66db Compacting 1@1 + 1@2 files
+2024/11/23-19:13:05.374 66db Generated table #73@1: 1471 keys, 131524 bytes
+2024/11/23-19:13:05.375 66db Compacted 1@1 + 1@2 files => 131524 bytes
+2024/11/23-19:13:05.377 66db compacted to: files[ 0 0 1 0 0 0 0 ]

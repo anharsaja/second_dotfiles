@@ -1,0 +1,26 @@
+{
+   "donation": {
+      "message": "Adomány"
+   },
+   "extDescription": {
+      "message": "Hozzáadja a „Háttérkép megtekintése” elemet a helyi menühöz."
+   },
+   "extName": {
+      "message": "Háttérkép megjelenítése"
+   },
+   "failure": {
+      "message": "Nem lehet megtekinteni a háttérképeket"
+   },
+   "reload": {
+      "message": "A bővítmény telepítése vagy frissítése után töltse be újra az oldalakat."
+   },
+   "report": {
+      "message": "Hibabejelentés?"
+   },
+   "review": {
+      "message": "Felülvizsgálat"
+   },
+   "security": {
+      "message": "A bővítmény nem futhat speciális oldalakon."
+   }
+}

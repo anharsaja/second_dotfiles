@@ -1,0 +1,39 @@
+2024/11/28-16:55:54.922 3f2 Reusing MANIFEST /home/anharsaja/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2024/11/28-16:55:54.922 3f2 Recovering log #82
+2024/11/28-16:55:54.925 3f2 Reusing old log /home/anharsaja/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/000082.log 
+2024/11/28-16:56:09.880 3f3 Level-0 table #86: started
+2024/11/28-16:56:09.901 3f3 Level-0 table #86: 474357 bytes OK
+2024/11/28-16:56:09.905 3f3 Delete type=0 #82
+2024/11/28-18:17:42.811 3f3 Level-0 table #88: started
+2024/11/28-18:17:42.823 3f3 Level-0 table #88: 481902 bytes OK
+2024/11/28-18:17:42.831 3f3 Delete type=0 #85
+2024/11/28-18:17:42.836 3f3 Compacting 4@0 + 1@1 files
+2024/11/28-18:17:42.860 3f3 Generated table #89@0: 1 keys, 13537 bytes
+2024/11/28-18:17:42.860 3f3 Compacted 4@0 + 1@1 files => 13537 bytes
+2024/11/28-18:17:42.862 3f3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-18:17:42.862 3f3 Delete type=2 #80
+2024/11/28-18:17:42.863 3f3 Delete type=2 #78
+2024/11/28-18:17:42.863 3f3 Delete type=2 #83
+2024/11/28-18:17:42.863 3f3 Delete type=2 #86
+2024/11/28-18:17:42.863 3f3 Delete type=2 #88
+2024/11/28-19:08:31.923 3f3 Level-0 table #91: started
+2024/11/28-19:08:31.937 3f3 Level-0 table #91: 508649 bytes OK
+2024/11/28-19:08:31.945 3f3 Delete type=0 #87
+2024/11/28-19:12:16.584 3f3 Level-0 table #93: started
+2024/11/28-19:12:16.603 3f3 Level-0 table #93: 498730 bytes OK
+2024/11/28-19:12:16.607 3f3 Delete type=0 #90
+2024/11/28-19:34:48.501 3f3 Level-0 table #95: started
+2024/11/28-19:34:48.512 3f3 Level-0 table #95: 496700 bytes OK
+2024/11/28-19:34:48.515 3f3 Delete type=0 #92
+2024/11/28-19:37:53.355 3f4 Level-0 table #97: started
+2024/11/28-19:37:53.359 3f4 Level-0 table #97: 515824 bytes OK
+2024/11/28-19:37:53.361 3f4 Delete type=0 #94
+2024/11/28-19:37:53.362 3f4 Compacting 4@0 + 1@1 files
+2024/11/28-19:37:53.369 3f4 Generated table #98@0: 1 keys, 19994 bytes
+2024/11/28-19:37:53.369 3f4 Compacted 4@0 + 1@1 files => 19994 bytes
+2024/11/28-19:37:53.370 3f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/28-19:37:53.371 3f4 Delete type=2 #95
+2024/11/28-19:37:53.371 3f4 Delete type=2 #89
+2024/11/28-19:37:53.371 3f4 Delete type=2 #91
+2024/11/28-19:37:53.371 3f4 Delete type=2 #97
+2024/11/28-19:37:53.371 3f4 Delete type=2 #93
